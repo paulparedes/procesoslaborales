@@ -1,0 +1,24 @@
+---
+title: "Principios (y fundamentos) del proceso laboral"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-03-25"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-02-PRINCIPIOS-FUNDAMENTOS.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-02-PRINCIPIOS-FUNDAMENTOS.html)
+
+# Principios (y fundamentos) del proceso laboral
+
+-   Principios y fundamentos del proceso laboral en general.
+-   Principios y fundamentos del proceso laboral peruano. 
+
+## Lecturas
+
+-   Pasco Cosmópolis, Mario. Fundamentos de derecho procesal del trabajo.
+-   Paredes Palacios, Paul. El principio de facilitación probatoria. Primera sección.

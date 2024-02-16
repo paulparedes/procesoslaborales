@@ -1,0 +1,34 @@
+---
+title: "Casación"
+lang: es
+subtitle: "<span class='code'>09:00-12:00</span>"
+date: "2024-05-13"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+# Parte 1
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-09-CASACION-DOCTRINA-1.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-09-CASACION-DOCTRINA-1.html)
+
+# Parte 2
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-10-CASACION-DOCTRINA-2.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-10-CASACION-DOCTRINA-2.html)
+
+
+# Casación
+
+-   La casación laboral. 
+
+## Lecturas
+
+-   Taruffo, Michele (2012) El precedente judicial en los sistemas de Civil Law. Revista IUS ET VERITAS,, Nr. 45. 
+-   Taruffo, Michele (2016) Consideraciones sobre el precedente. Revista IUS ET VERITAS,, Nr. 53.

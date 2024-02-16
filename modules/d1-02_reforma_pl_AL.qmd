@@ -1,0 +1,24 @@
+---
+title: "La reforma de los procesos laborales en América Latina"
+lang: es
+subtitle: "<span class='code'>19:45-22:00</span>"
+date: "2024-03-18"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-01-REFORMA-PROCESOS-LABORALES.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-01-REFORMA-PROCESOS-LABORALES.html)
+
+# La reforma de los procesos laborales en América Latina
+
+-   Los principales ejes de las reformas en América Latina: oralidad, tecnología y acceso a la justicia.
+-   Una mirada desde el proceso laboral peruano, a modo de referencia.
+
+## Lecturas
+
+-   Paredes Palacios, Paul. Principales innovaciones contenidas en la Nueva Ley Procesal del Trabajo.
+-   Couture, Eduardo. Estudios de derecho procesal civil. 

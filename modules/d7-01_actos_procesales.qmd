@@ -1,0 +1,22 @@
+---
+title: "Los actos procesales: demanda, contestación y sentencia"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-04-29"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-07-ACTOS-PROCESALES.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-07-ACTOS-PROCESALES.html)
+
+# Los actos procesales: demanda, contestación y sentencia
+
+-   Revisión de los requisitos y contenido de los principales actos procesales en la NLPT. 
+
+## Lecturas
+
+-   Paredes Palacios, Paul. La oralidad como herramienta para el acceso a la justicia en el nuevo proceso laboral peruano. 

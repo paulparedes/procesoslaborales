@@ -1,0 +1,22 @@
+---
+title: "Mecanismos alternativos de resolución de conflictos. Conciliación y arbitraje"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-05-27"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-11-MARCs.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-11-MARCs.html)
+
+# Mecanismos alternativos de resolución de conflictos. Conciliación y arbitraje
+
+-   Revisión de los principales medios alternativos de resolución de conflictos en general. 
+
+## Lecturas
+
+-   Aguiló, Joseph. El arte de la mediación. 

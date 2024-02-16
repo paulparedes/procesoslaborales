@@ -1,0 +1,16 @@
+---
+title: "Licencia"
+editor: source
+---
+
+<!--# ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg) -->
+
+![](images/by.svg)
+
+
+Esta obra está sujeta a una licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+El diseño de esta página está basada e inspirada en la obra creada por Cédric Scherer y Marco Sciaini que puede revisarse en el siguiente [enlace](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/).
+
+
+<!--# TO DO: Add reuse and attribution instructions. -->

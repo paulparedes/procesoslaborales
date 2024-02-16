@@ -1,0 +1,19 @@
+---
+title: "Presentación"
+lang: es
+subtitle: "<span class='code'>19:00-19:45</span>"
+date: "2024-03-18"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+# Bienvenidos
+
+-   Bienvenidos
+    -   Conoce al profesor
+    -   ¡Conózcanse unos a otros!
+    -   Anuncios
+-   El curso
+    -   Los objetivos y contenido
+    -   La metodología
+    -   El sistema de evaluación

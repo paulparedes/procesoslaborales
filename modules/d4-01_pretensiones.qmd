@@ -1,0 +1,22 @@
+---
+title: "Pretensiones en la justicia laboral"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-04-08"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-04-PRETENSIONES-JUSTICIA-LABORAL.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-04-PRETENSIONES-JUSTICIA-LABORAL.html)
+
+# Pretensiones en la justicia laboral
+
+-   Revisión de las pretensiones o materias laborales y de su regulación en el ordenamiento peruano. 
+
+## Lecturas
+
+-   Paredes Palacios, Paul. Formación y fundamentos de la Nueva Ley Procesal del Trabajo. 

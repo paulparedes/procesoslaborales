@@ -1,0 +1,22 @@
+---
+title: "Los poderes de los jueces"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-04-01"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-03-PODERES-JUECES-PRECEDENTES.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-03-PODERES-JUECES-PRECEDENTES.html)
+
+# Poderes de los jueces
+
+-   Revisión de los poderes de los jueces en el proceso laboral peruano. 
+
+## Lecturas
+
+-   Cappelletti, Mauro. Proceso civil.

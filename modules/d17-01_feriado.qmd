@@ -1,0 +1,10 @@
+---
+title: "Feriado"
+lang: es
+#subtitle: "<span class='code'>19:00-19:45</span>"
+#date: "2024-03-18"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+# ¡Disfrute el día!

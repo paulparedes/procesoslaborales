@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/schedule.html",
+    "items": [
+      "/modules/d1-01_introduction.html",
+      "/modules/d1-02_reforma_pl_AL.html",
+      "/modules/d2-01_fundamentos.html",
+      "/modules/d3-01_jueces.html",
+      "/modules/d4-01_pretensiones.html",
+      "/modules/d5-01_procesos_1.html",
+      "/modules/d6-01_procesos_2.html",
+      "/modules/d7-01_actos_procesales.html",
+      "/modules/d8-01_impugnaciones.html",
+      "/modules/d9-01_casacion.html",
+      "/modules/d10-01_examen_parcial.html",
+      "/modules/d11-01_marcs.html",
+      "/modules/d12-01_conflic_eco_sindicatos.html",
+      "/modules/d13-01_prueba_1.html",
+      "/modules/d14-01_teoria_caso_1.html",
+      "/modules/d15-01_teoria_caso_2.html",
+      "/modules/d16-01_examen_final.html",
+      "/modules/d17-01_feriado.html"
+    ]
+  }
+]

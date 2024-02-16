@@ -1,0 +1,10 @@
+---
+title: "Examen final"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-07-08"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+# Examen final

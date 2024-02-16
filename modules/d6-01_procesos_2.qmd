@@ -1,0 +1,24 @@
+---
+title: "Otros tipos de procesos (no netamente) laborales"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-04-22"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-06-PROCESOS-LABORALES-NO-NLPT.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-06-PROCESOS-LABORALES-NO-NLPT.html)
+
+# Otros tipos de procesos (no netamente) laborales
+
+-   Revisión del proceso contencioso administrativo en materia laboral y de la acción de amparo. 
+
+## Lecturas
+
+-   Paredes Palacios, Paul. El Tribunal del Servicio Civil y la NLPT.
+-   Paredes Palacios, Paul. La NLPT y la acción de amparo en materia laboral.
+-   V Pleno Jurisdiccional Supremo en Materia Laboral 

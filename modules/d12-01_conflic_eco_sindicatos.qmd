@@ -1,0 +1,38 @@
+---
+title: "Solución de los conflictos económicos. Participación de los sindicatos"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-06-03"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+# Parte 1
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-12-CONFLICTOS-ECONOMICOS.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-12-CONFLICTOS-ECONOMICOS.html)
+
+# Parte 2
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-13-PROCESOS-COLECTIVOS.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-13-PROCESOS-COLECTIVOS.html)
+
+# Solución de los conflictos económicos
+
+-   Exposición sobre los tipos de conflictos laborales. 
+-   Revisión de las formas de impugnación de los convenios o laudos arbitrales económicos. 
+
+# Participación de los sindicatos
+
+-   Revisión de la participación de los sindicatos en la NLPT. 
+
+## Lecturas
+
+-   Beltrán Rico, Leonardo. El arbitramento dentro del contexto de las relaciones de índole laboral. 
+-   Paredes Palacios, Paul. ¿Es eficaz el proceso colectivo laboral peruano?

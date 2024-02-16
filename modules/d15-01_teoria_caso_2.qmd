@@ -1,0 +1,25 @@
+---
+title: "Razonamiento probatorio. Teoría del caso 2"
+lang: es
+subtitle: "<span class='code'>19:00-22:00</span>"
+date: "2024-07-01"
+image: "images/logo2.png"
+tbl-colwidths: [2,49,49]
+---
+
+```{=html}
+<iframe class="slide-deck" src="../materials/2024-15-PRUEBA-02.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[View slides in full screen](../materials/2024-15-PRUEBA-02.html)
+
+# Razonamiento probatorio. Teoría del caso 2
+
+-   Revisión de la teoría del caso. Parte 2
+
+## Lecturas
+
+-   Paredes Palacios, Paul. El principio de facilitación probatoria. Segunda sección.
+-   Paredes Palacios, Paul. El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral. 
+-   Ferrer Beltrán, Jordi. “La prueba de la causalidad en la responsabilidad civil”.
+-   Gascón Abellán, Marina. “Valoración de la prueba y causalidad jurídica”. 
