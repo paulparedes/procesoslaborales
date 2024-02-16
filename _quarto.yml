@@ -10,7 +10,7 @@ website:
   page-navigation: true
   title: "Procesos laborales"
   description: "Página web del curso: Procesos laborales"
-  site-url: "https://procesoslaborales.paulparedes.pe/"
+  site-url: "https://www.procesoslaborales.paulparedes.pe"
   
   repo-url: https://github.com/PaulParedes/procesoslaborales
   repo-actions: [edit, issue]
