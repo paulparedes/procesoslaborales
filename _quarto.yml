@@ -45,7 +45,7 @@ website:
       - icon: file-certificate
         href: license.qmd
       - icon: github
-        href: https://github.com/paulparedes////
+        href: https://github.com/PaulParedes/procesoslaborales
         text: GitHub
       #- icon: cloud-fill
       #  href: https://rstudio.cloud/spaces/235465
