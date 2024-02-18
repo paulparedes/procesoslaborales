@@ -14,8 +14,10 @@ website:
   
   repo-url: https://github.com/PaulParedes/procesoslaborales
   repo-actions: [edit, issue]
-
-  open-graph: false
+  
+  google-analytics: "G-VB55FKBL75"
+  
+  open-graph: true
   twitter-card:
     creator: "@Paul_Paredes"
     image: "/images/pgpp.png"
