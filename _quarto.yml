@@ -38,12 +38,12 @@ website:
       - icon: download
         text: Descargas
         menu: 
-          - text: Lecturas
-            href: lecturas-2024-1.zip
+      #    - text: Lecturas
+      #      href: lecturas-2024-1.zip
           - text: Presentaciones
             href: slides-2024-1.zip
-          - text: Materiales adicionales
-            href: adicionales-2024-1.zip
+      #    - text: Materiales adicionales
+      #      href: adicionales-2024-1.zip
       - icon: file-certificate
         href: license.qmd
       - icon: github
