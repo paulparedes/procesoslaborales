@@ -8,10 +8,10 @@ tbl-colwidths: [2,49,49]
 ---
 
 ```{=html}
-<iframe class="slide-deck" src="../materials/2024-03-PODERES-JUECES-PRECEDENTES.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="../materials/2024-03-JUECES-PRECEDENTE-DOCTRINA-CASATORIA-PLENOS.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-[View slides in full screen](../materials/2024-03-PODERES-JUECES-PRECEDENTES.html)
+[View slides in full screen](../materials/2024-03-JUECES-PRECEDENTE-DOCTRINA-CASATORIA-PLENOS.html)
 
 # Poderes de los jueces
 
