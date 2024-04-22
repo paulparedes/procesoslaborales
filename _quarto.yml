@@ -40,10 +40,16 @@ website:
         menu: 
       #    - text: Lecturas
       #      href: lecturas-2024-1.zip
+      #    - text: Presentaciones
+      #      href: slides-2024-1.zip
           - text: Presentaciones
-            href: slides-2024-1.zip
-      #    - text: Materiales adicionales
-      #      href: adicionales-2024-1.zip
+            href: https://drive.google.com/drive/folders/1IRkmUApT4flWGVm5W7akSoowXY2DIyO3?usp=sharing
+          - text: Lecturas
+            href: https://drive.google.com/drive/folders/1UwVw1l5sVBRwnDWxuvzW9xHHWD4SpN-I?usp=sharing
+          - text: Lecturas sugeridas
+            href: https://drive.google.com/drive/folders/1e5nps7s3OpeyqWHWVG6szxk_6XNa7cbd?usp=sharing
+      #    - text: Sílabo
+      #      href: https://drive.google.com/drive/folders/1Y_ZN7LVNLRtWaOYMfxA2T5C42a4cvaRB?usp=sharing
       - icon: file-certificate
         href: license.qmd
       - icon: github
