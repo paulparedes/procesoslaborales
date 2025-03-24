@@ -7,7 +7,7 @@ lang: es
 
 # Procesos laborales en el ordenamiento peruano
 
-Curso que dicta el prof. Paul Paredes sobre el proceso laboral peruano en las maestrías en Derecho del Trabajo y Seguridad Social de la PUCP y en Derecho Procesal de la UNMSM (Lima, 2024)
+Curso que dicta el prof. Paul Paredes sobre el proceso laboral peruano en las maestrías en Derecho del Trabajo y Seguridad Social de la PUCP y en Derecho Procesal de la UNMSM (Lima, 2025)
 
 ------------------------------------------------------------------------
 
@@ -43,3 +43,7 @@ Este es un curso especializado en Derecho Procesal del Trabajo. Los temas que se
 <a href="https://twitter.com/Paul_Paredes"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="35" height="35"></a>&ensp; 
 </div>
 
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

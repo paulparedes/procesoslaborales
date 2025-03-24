@@ -1,0 +1,37 @@
+---
+title: "Clases"
+image: "/files/images/logo.png"
+page-layout: full
+listing:
+
+- id: lectures
+  contents: /2025/lecture*.qmd
+  sort: "date asc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  fields: [image, date, title, author]
+
+# - id: lectures-2023
+#   contents: "2023/lecture*.qmd"
+#   sort: "date asc"
+#   type: grid
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   feed: false
+#   fields: [image, date, title, author]
+#page-layout: full
+page-navigation: false
+title-block-banner: false
+repo-actions: false
+---
+
+:::{#lectures}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

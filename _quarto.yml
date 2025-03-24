@@ -15,7 +15,7 @@ website:
   repo-url: https://github.com/PaulParedes/procesoslaborales
   repo-actions: [edit, issue]
   
-  google-analytics: "G-VB55FKBL75"
+  google-analytics: "G-JW93WF08Z3"
   
   open-graph: true
   twitter-card:
@@ -26,7 +26,7 @@ website:
 
   page-footer:
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    right: "&copy; Copyright 2024, Paul Paredes. Based on a previous work by Cédric Scherer and Marco Sciaini"
+    right: "&copy; Copyright 2025, Paul Paredes. Based on a previous work by Cédric Scherer and Marco Sciaini"
     background: "#484d6d"
 
   navbar:
@@ -42,8 +42,8 @@ website:
       #      href: lecturas-2024-1.zip
       #    - text: Presentaciones
       #      href: slides-2024-1.zip
-          - text: Presentaciones
-            href: https://drive.google.com/drive/folders/1IRkmUApT4flWGVm5W7akSoowXY2DIyO3?usp=sharing
+      #    - text: Presentaciones
+      #      href: https://drive.google.com/drive/folders/1IRkmUApT4flWGVm5W7akSoowXY2DIyO3?usp=sharing
           - text: Lecturas
             href: https://drive.google.com/drive/folders/1UwVw1l5sVBRwnDWxuvzW9xHHWD4SpN-I?usp=sharing
           - text: Lecturas sugeridas
@@ -60,42 +60,47 @@ website:
       #  text: RStudio Cloud+
     left:
       - text: Clases
-        menu: 
-          - text: 00 Presentación
-            href: modules/d1-01_introduction.qmd
-          - text: 01 La reforma de los procesos laborales en América Latina
-            href: modules/d1-02_reforma_pl_AL.qmd
-          - text: 02 Principios (y fundamentos) del proceso laboral
-            href: modules/d2-01_fundamentos.qmd
-          - text: 03 Poderes de los jueces
-            href: modules/d3-01_jueces.qmd
-          - text: 04 Pretensiones en la justicia laboral
-            href: modules/d4-01_pretensiones.qmd
-          - text: 05 Tipos de procesos (netamente) laborales
-            href: modules/d5-01_procesos_1.qmd
-          - text: 06 Otros tipos de procesos (no netamente) laborales
-            href: modules/d6-01_procesos_2.qmd
-          - text: 07 Los actos procesales; demanda, contestación y sentencia
-            href: modules/d7-01_actos_procesales.qmd
-          - text: 08 Medios impugnatorios
-            href: modules/d8-01_impugnaciones.qmd
-          - text: 09 La casación laboral
-            href: modules/d9-01_casacion.qmd
-          - text: 10 Examen parcial
-            href: modules/d10-01_examen_parcial.qmd
-          - text: 11 Mecanismos alternativos de resolución de conflictos. Conciliación y arbitraje
-            href: modules/d11-01_marcs.qmd
-          - text: 12 Solución de los conflictos económicos. Participación de los sindicatos
-            href: modules/d12-01_conflic_eco_sindicatos.qmd
-          - text: 13 Teoría de la prueba
-            href: modules/d13-01_prueba_1.qmd
-          - text: 14 Razonamiento probatorio. Teoría del caso 1
-            href: modules/d14-01_teoria_caso_1.qmd
-          - text: 15 Razonamiento probatorio. Teoría del caso 2
-            href: modules/d15-01_teoria_caso_2.qmd
-          - text: 16 Examen final
-            href: modules/d16-01_examen_final.qmd
-          
+        href: lectures.qmd
+      #  menu: 
+      #    - text: 00 Presentación
+      #      href: modules/d1-01_introduction.qmd
+      #    - text: 01 La reforma de los procesos laborales en América Latina
+      #      href: modules/d1-02_reforma_pl_AL.qmd
+      #    - text: 02 Principios (y fundamentos) del proceso laboral
+      #      href: modules/d2-01_fundamentos.qmd
+      #    - text: 03 Poderes de los jueces
+      #      href: modules/d3-01_jueces.qmd
+      #    - text: 04 Pretensiones en la justicia laboral
+      #      href: modules/d4-01_pretensiones.qmd
+      #    - text: 05 Tipos de procesos (netamente) laborales
+      #      href: modules/d5-01_procesos_1.qmd
+      #    - text: 06 Otros tipos de procesos (no netamente) laborales
+      #      href: modules/d6-01_procesos_2.qmd
+      #    - text: 07 Los actos procesales; demanda, contestación y sentencia
+      #      href: modules/d7-01_actos_procesales.qmd
+      #    - text: 08 Medios impugnatorios
+      #      href: modules/d8-01_impugnaciones.qmd
+      #    - text: 09 La casación laboral
+      #      href: modules/d9-01_casacion.qmd
+      #    - text: 10 Examen parcial
+      #      href: modules/d10-01_examen_parcial.qmd
+      #    - text: 11 Mecanismos alternativos de resolución de conflictos. Conciliación y arbitraje
+      #      href: modules/d11-01_marcs.qmd
+      #    - text: 12 Solución de los conflictos económicos. Participación de los sindicatos
+      #      href: modules/d12-01_conflic_eco_sindicatos.qmd
+      #    - text: 13 Teoría de la prueba
+      #      href: modules/d13-01_prueba_1.qmd
+      #    - text: 14 Razonamiento probatorio. Teoría del caso 1
+      #      href: modules/d14-01_teoria_caso_1.qmd
+      #    - text: 15 Razonamiento probatorio. Teoría del caso 2
+      #      href: modules/d15-01_teoria_caso_2.qmd
+      #    - text: 16 Examen final
+      #      href: modules/d16-01_examen_final.qmd
+      
+      - text: Prof. Paul Paredes
+        href: https://www.paulparedes.pe/about/
+        target: _blank 
+     
      # - href: schedule.qmd
 
 format:

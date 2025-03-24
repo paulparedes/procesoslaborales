@@ -13,6 +13,8 @@ tbl-colwidths: [2,49,49]
 
 [View slides in full screen](../materials/2024-15-PRUEBA-02.html)
 
+[Nuevo slide clase prueba](../materials/slides-prueba-color.html)
+
 # Razonamiento probatorio. Teoría del caso 2
 
 -   Revisión de la teoría del caso. Parte 2

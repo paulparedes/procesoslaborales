@@ -21,5 +21,12 @@
       "/modules/d16-01_examen_final.html",
       "/modules/d17-01_feriado.html"
     ]
+  },
+  {
+    "listing": "/lectures.html",
+    "items": [
+      "/2025/lecture1.html",
+      "/2025/lecture2.html"
+    ]
   }
 ]
