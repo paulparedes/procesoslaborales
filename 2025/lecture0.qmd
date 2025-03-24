@@ -1,0 +1,470 @@
+---
+title: "0 | La racionalidad de los procesos laborales"
+#subtitle: "Fundamentos y evolución de la justicia laboral especializada"
+author: "Paul Paredes"
+#institute: "Procesos Laborales"
+date: 03-24-2025
+date-format: long
+lang: es
+image: "/images/lecture1.png"
+format:
+  revealjs:
+    theme: white
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fix-text: true
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    center: true
+    scrollable: true
+    #logo: "https://www.pucp.edu.pe/.png"
+    css: /custom.css
+    highlight-style: github
+    code-line-numbers: true
+    # self-contained: true
+    footer: <https://procesoslaborales.paulparedes.pe/>
+---
+
+## Objetivos de aprendizaje {.smaller}
+
+::: {.incremental}
+1. Comprender la **racionalidad subyacente** de los procesos laborales
+2. Analizar las **particularidades** del derecho procesal laboral (p. ej. frente al proceso civil)
+3. Identificar los **elementos** que justifican un tratamiento procesal especial
+4. Reflexionar sobre las **reformas procesales laborales** en Perú y América Latina
+:::
+
+::: {.notes}
+- Saludar a los estudiantes
+- Mencionar brevemente la dinámica de la clase
+- Destacar la importancia del tema en la formación del abogado
+:::
+
+## Reflexión inicial {.center}
+
+::: {.callout-important}
+## Pregunta para discusión
+¿Por qué creen que existe un proceso laboral específico, distinto del proceso civil?
+:::
+
+::: {.notes}
+- Dar 5 minutos para discusión en plenario
+- Anotar las principales ideas en la pizarra
+- Conectar con los temas a desarrollar
+:::
+
+# 1. Orígenes y fundamentos del derecho procesal laboral
+
+## La especificidad del conflicto laboral {.smaller}
+
+::: {.columns}
+::: {.column width="95%"}
+- **Asimetría estructural** entre las partes
+  - Desigualdad económica
+  - Desigualdad informativa
+  - Desigualdad probatoria
+- **Naturaleza alimentaria** de los derechos en disputa
+- **Impacto social** de las relaciones laborales
+- **Continuidad** de la relación laboral
+:::
+
+::: {.column width="5%"}
+<!--![](https://cdn.pixabay.com/photo/2017/11/09/01/49/scales-2932279_1280.jpg)-->
+:::
+:::
+
+::: {.notes}
+- Enfatizar cómo estas características justifican un tratamiento procesal diferenciado
+- Mencionar que el proceso civil está diseñado para partes formalmente iguales
+:::
+
+## El principio protector en el ámbito procesal {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Manifestaciones procesales:**
+
+- In dubio pro operario
+- Redistribución de la carga probatoria
+- Impulso de oficio
+- Gratuidad
+- Celeridad
+- Suplencia de la queja deficiente
+:::
+
+::: {.column width="50%"}
+**Fundamentos jurídicos:**
+
+- Constitucionalización del derecho laboral
+- Derechos fundamentales en juego
+- Función equilibradora del derecho procesal
+:::
+:::
+
+## Actividad en grupos {.smaller}
+
+::: {.callout-tip}
+## Instrucciones
+1. Formen 4 grupos de 4 personas. Uno tendrá 5.
+2. Analicen el siguiente texto
+3. Tiempo: 8 minutos
+:::
+
+::: {.notes}
+- Circular entre los grupos para orientar la discusión
+- Enfocar en las diferencias de ..., etc.
+:::
+
+## {background-image="https://raw.githubusercontent.com/PaulParedes/materiales/master/pasco-84.png" background-size="90%" background-position="center"}
+
+::: {.notes}
+- Explicar cada manifestación con ejemplos concretos
+- Vincular con los convenios internacionales ratificados por Perú
+:::
+
+
+
+# 2. La racionalidad de las reformas procesales laborales
+
+## Diagnóstico de la justicia laboral tradicional {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Problemas identificados:**
+
+- Duración excesiva (3-5 años promedio)
+- Escrituralidad y formalismo
+- Ausencia de inmediación real
+- Fragmentación de audiencias
+- Complejidad procesal
+- Barreras de acceso
+:::
+
+::: {.column width="50%"}
+**Impacto en los derechos:**
+
+- Devaluación de créditos laborales
+- Presión para conciliaciones desventajosas
+- Negación material del derecho
+- Incentivo al incumplimiento
+- Deslegitimación del sistema
+:::
+:::
+
+::: {.notes}
+- Mencionar datos estadísticos del Poder Judicial peruano
+- Relacionar con la percepción ciudadana sobre la justicia laboral
+:::
+
+## Objetivos de las reformas procesales {.smaller}
+
+::: {.incremental}
+1. **Celeridad**: Reducción sustancial de plazos procesales
+2. **Simplicidad**: Procedimientos comprensibles para el ciudadano
+3. **Predictibilidad**: Uniformidad en criterios jurisprudenciales
+4. **Efectividad**: Ejecución oportuna de lo decidido
+5. **Accesibilidad**: Eliminación de barreras económicas y formales
+6. **Modernización**: Aprovechamiento de nuevas tecnologías
+:::
+
+::: {.notes}
+- Conectar con antecedentes de la reforma procesal peruana
+- Mencionar el impacto en la satisfacción de usuarios del sistema
+:::
+
+## La oralidad como sistema procesal {.smaller}
+
+::: {.columns}
+::: {.column width="90%"}
+- No es solo una técnica de comunicación
+- Implica un **modelo procesal** que integra:
+  - **Inmediación**: Contacto directo juez-partes-pruebas
+  - **Concentración**: Unidad de acto procesal
+  - **Publicidad**: Transparencia y control social
+  - **Contradicción**: Debate efectivo y directo
+:::
+
+::: {.column width="5%"}
+<!--![](https://cdn.pixabay.com/photo/2017/07/27/15/24/judge-2545455_1280.jpg)-->
+:::
+:::
+
+::: {.fragment .fade-in}
+> "No basta cambiar la ley para tener procesos orales" — **
+:::
+
+::: {.notes}
+- Enfatizar que la oralidad es más que hablar en audiencia
+- Explicar el concepto de sistema de la oralidad de Cappelletti
+:::
+
+## El uso intensivo de la tecnología {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Herramientas tecnológicas:**
+
+- Notificaciones electrónicas
+- Expediente digital
+- Audiencias grabadas/virtuales
+- Firma electrónica
+- Gestión documental digital
+- Interoperabilidad
+:::
+
+::: {.column width="50%"}
+**Beneficios esperados:**
+
+- Reducción de tiempos muertos
+- Eliminación de trámites innecesarios
+- Acceso remoto al expediente
+- Transparencia del proceso
+- Conservación fidedigna de actuaciones
+- Reducción de costos operativos
+:::
+:::
+
+::: {.notes}
+- Comentar los avances en el Poder Judicial peruano
+- Mencionar los retos de implementación en diversas zonas del país
+:::
+
+## El nuevo rol del juez laboral {.smaller}
+
+::: {.incremental}
+- **Juez director** del proceso, no mero árbitro
+- **Poderes-deberes** ampliados:
+  - Dirección procesal proactiva
+  - Ordenación probatoria
+  - Saneamiento procesal
+  - Impulso de oficio
+  - Prevención y represión de conducta procesal desleal
+  - Búsqueda de la verdad material
+  - Efectividad de la tutela
+:::
+
+::: {.notes}
+- Contrastar con el rol tradicional del juez en el proceso civil
+- Mencionar el artículo III del TP de la NLPT
+:::
+
+## Actividad: Debate estructurado {.smaller}
+
+::: {.callout-important}
+## Tema para debate
+"¿Los procesos orales garantizan mejor los derechos de los trabajadores?"
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+**Grupo A: Argumentos a favor**  
+*(10 minutos de preparación)*
+:::
+
+::: {.column width="50%"}
+**Grupo B: Argumentos en contra**  
+*(10 minutos de preparación)*
+:::
+:::
+
+::: {.callout-tip}
+- Considerar aspectos: jurídicos, sociales, económicos, prácticos
+- Fundamentar posiciones en principios y normativa
+:::
+
+::: {.notes}
+- Dividir la clase en dos grupos
+- Designar relatores para la exposición
+- Moderar el debate posterior (10 minutos)
+:::
+
+# 3. La experiencia comparada y la reforma peruana
+
+<!--
+
+## Tendencias regionales en América Latina {.smaller}
+
+::: {.columns}
+::: {.column width="30%"}
+**Chile (2008)**
+- Alta efectividad conciliatoria
+- Especialización de tribunales
+
+**Venezuela (2003)**
+- Primera reforma regional
+- Sentencia oral inmediata
+- Efectividad de la conciliación (85%)
+:::
+
+::: {.column width="30%"}
+**Ecuador (2004)**
+- Oralidad con grabación
+- Trascripción en acta
+- Implementación gradual
+
+**Uruguay (2010)**
+- Estructura sencilla
+- Audiencia única
+- Alta tasa de resolución
+:::
+
+::: {.column width="40%"}
+**Características comunes:**
+- Adopción de la oralidad
+- Concentración de actos procesales
+- Fortalecimiento de la conciliación
+- Uso de nuevas tecnologías
+- Ampliación de poderes judiciales
+- Rediseño de recursos impugnatorios
+:::
+:::
+
+::: {.notes}
+- Destacar las particularidades de cada modelo
+- Mencionar los resultados estadísticos donde estén disponibles
+:::
+
+-->
+
+## Factores críticos para el éxito de la reforma {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Factores estructurales:**
+
+- Capacitación continua de jueces
+- Preparación de abogados
+- Infraestructura adecuada
+- Soporte tecnológico
+- Organización judicial
+:::
+
+::: {.column width="50%"}
+**Factores procesales:**
+
+- Diseño coherente de audiencias
+- Simplificación de trámites
+- Mecanismos efectivos de ejecución
+- Control de dilaciones
+- Uniformización de criterios
+:::
+:::
+
+<!--
+::: {.fragment .fade-in}
+> "La experiencia regional demuestra que el cambio normativo es solo el primer paso. La transformación cultural es el verdadero desafío."
+:::
+
+::: {.notes}
+- Mencionar experiencias de implementación gradual vs. total
+- Comentar sobre la resistencia al cambio en diversos actores
+:::
+-->
+
+## La Nueva Ley Procesal del Trabajo peruana {.smaller}
+
+::: {.columns}
+::: {.column width="60%"}
+**Características distintivas:**
+
+- Estructura con doble audiencia (conciliación + juzgamiento)
+- Audiencia única en proceso abreviado
+- Carga probatoria dinámica
+- Presunción de laboralidad
+- Juzgamiento anticipado
+- Formas especiales de conclusión
+- Medidas cautelares flexibles
+- Ejecución inmediata de sentencias
+:::
+
+::: {.column width="40%"}
+**Balance actual:**
+
+- Reducción de tiempos procesales (¿?)
+- Mayor tasa de conciliación (¿?)
+- Mejor calidad de decisiones (¿?)
+- Descongestión parcial (¿?) 
+- Predictibilidad incrementada (¿?)
+- Retos en ejecución
+:::
+:::
+
+::: {.notes}
+- Mencionar estadísticas actualizadas del Poder Judicial
+- Comentar sobre la implementación progresiva y sus desafíos
+:::
+
+
+<!--
+
+## Análisis de casos reales resueltos bajo la NLPT {.smaller}
+
+::: {.callout-note}
+## Instrucciones para actividad
+1. En grupos de 4-5 personas analizarán un expediente judicial concluido
+2. Identificarán:
+   - Principios procesales aplicados
+   - Momentos clave del proceso
+   - Diferencias con el proceso anterior
+   - Propuestas de mejora
+3. Tiempo: 15 minutos de análisis
+:::
+
+::: {.notes}
+- Distribuir copias de sentencias previamente seleccionadas
+- Asignar un caso diferente a cada grupo
+- Organizar la puesta en común posterior
+:::
+-->
+
+# 4. Reflexiones finales y actividad de cierre
+
+## Síntesis conceptual {.smaller}
+
+::: {.incremental}
+1. El **proceso laboral especializado** responde a la naturaleza particular del conflicto laboral
+2. La **racionalidad protectora** se traslada al ámbito procesal para equilibrar desigualdades
+3. Las **reformas procesales** buscan materializar el derecho sustantivo mediante:
+   - Oralidad como principio
+   - Uso de tecnología
+   - Simplificación procesal
+   - Poderes judiciales reforzados
+
+<!--
+4. La **experiencia comparada** muestra patrones comunes y factores críticos de éxito
+5. El **caso peruano** refleja estas tendencias con particularidades propias-->
+:::
+
+::: {.notes}
+- Conectar con las preguntas iniciales
+- Retomar los puntos clave señalados por los estudiantes
+:::
+
+## Actividad final: Diseño procesal ideal {.smaller}
+
+::: {.callout-important}
+## Consigna
+En grupos, propongan tres características fundamentales que debería tener un proceso laboral ideal y justifiquen cada una desde la racionalidad procesal estudiada.
+:::
+
+::: {.callout-tip}
+- Consideren aspectos como: estructura, plazos, pruebas, rol del juez, tecnología, recursos
+- Fundamenten jurídicamente sus propuestas
+- Tiempo: 7 minutos + 5 minutos de exposición
+:::
+
+::: {.notes}
+- Formar grupos de 4-5 personas
+- Proporcionar papel o formato para presentación
+- Organizar breve exposición de propuestas
+:::
+
+## ¡Gracias por su participación! {.center}
+
+::: {.notes}
+- Agradecer la participación
+- Recordar la fecha de la próxima clase
+- Quedar disponible para consultas individuales
+:::

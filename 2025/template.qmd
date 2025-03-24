@@ -1,0 +1,26 @@
+---
+title: "1 | Introducción a los procesos laborales"
+description-meta: "Introducción a la racionalidad de los procesos laborales"
+author: "Paul Paredes"
+date: 03-24-2025
+date-format: long
+lang: es
+image: "/images/lecture1.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://procesoslaborales.paulparedes.pe/>
+---
+
+## Clase 1 {.center .middle}
+
