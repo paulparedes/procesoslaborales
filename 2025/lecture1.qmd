@@ -2,10 +2,10 @@
 title: "1 | La reforma de los procesos laborales en América Latina"
 description-meta: "Explicar por qué se reformaron los procesos laborales en América Latina"
 author: "Paul Paredes"
-date: 03-24-2025
+date: 2025-03-24
 date-format: long
 lang: es
-image: "/images/lecture2.jpg"
+image: "/images/lecture1.jpg"
 format:
   revealjs:
     theme: white

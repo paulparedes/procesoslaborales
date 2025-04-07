@@ -1,5 +1,5 @@
 ---
-title: "Principios (y fundamentos) del proceso laboral"
+title: "2 | Principios (y fundamentos) del proceso laboral"
 subtitle: "Una perspectiva desde los derechos humanos"
 author: "Paul Paredes"
 institute: ""
@@ -17,7 +17,7 @@ format:
     smaller: false
     scrollable: true
     css: /custom.css
-    footer: "Procesos Laborales - 2024"
+    footer: <https://procesoslaborales.paulparedes.pe/>
 ---
 
 # Clase 2 {.center}

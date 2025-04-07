@@ -2,11 +2,11 @@
 title: "0 | La racionalidad de los procesos laborales"
 #subtitle: "Fundamentos y evolución de la justicia laboral especializada"
 author: "Paul Paredes"
-#institute: "Procesos Laborales"
-date: 03-24-2025
+#institute: ""
+date: 2025-03-24
 date-format: long
 lang: es
-image: "/images/lecture1.png"
+image: "/images/lecture0.png"
 format:
   revealjs:
     theme: white
@@ -461,7 +461,7 @@ En grupos, propongan tres características fundamentales que debería tener un p
 - Organizar breve exposición de propuestas
 :::
 
-## ¡Gracias por su participación! {.center}
+## ¡Gracias! {.center}
 
 ::: {.notes}
 - Agradecer la participación
