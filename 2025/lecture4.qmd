@@ -1,0 +1,30 @@
+---
+title: "4 | Competencia"
+date: "2025-04-14"
+author: "Paul Paredes"
+description: "Clase 4"
+image: "/images/lecture4.jpg"
+#date: 2025-04-07
+date-format: long
+lang: es
+format: html
+---
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>La Ley 32155</li>
+    <li>El ámbito de la justicia laboral</li>
+    <li>Las nuevas competencias de los JET</li>
+    <li>Esquema de competencia</li>
+    <li>Análisis crítico de la modificación</li>
+  </ul>
+</div> 
