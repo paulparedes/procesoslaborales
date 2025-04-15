@@ -29,9 +29,22 @@ format: html
   </a>
 </div>
 
+<!--
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-P.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+
 <div class="mt-4">
   <h4>Casos</h4>
 </div> 
+
+
 
 <div class="text-center">
   <p></p>
@@ -41,3 +54,4 @@ format: html
   </a>
 </div>
 
+-->
