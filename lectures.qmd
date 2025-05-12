@@ -2,6 +2,7 @@
 title: "Clases"
 image: "/files/images/logo.png"
 page-layout: full
+lang: es
 listing:
 
 - id: lectures

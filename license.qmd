@@ -1,6 +1,7 @@
 ---
 title: "Licencia"
 editor: source
+lang: es
 ---
 
 <!--# ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg) -->
