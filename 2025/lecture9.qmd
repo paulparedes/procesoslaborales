@@ -1,0 +1,59 @@
+---
+title: "9 | Casación"
+date: "2025-05-19"
+author: "Paul Paredes"
+description: "Clase 9"
+image: "/images/lecture9.jpg"
+#date: 2025-05-05
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>Concepciones de corte suprema</li>
+    <li>Modelos de corte suprema</li>
+    <li>Funciones de las cortes supremas</li>
+    <li>Técnicas uniformadoras</li>
+    <li>Causales de casación</li>
+    <li>Interés casacional</li>
+    <li>Doctrina jurisprudencial</li>
+  </ul>
+</div> 
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-09-CASACION.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<!--
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-P.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+
+<div class="mt-4">
+  <h4>Casos</h4>
+</div> 
+
+
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-CASOS.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+-->
