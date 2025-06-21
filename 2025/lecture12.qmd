@@ -1,0 +1,56 @@
+---
+title: "12 | Solución de los conflictos económicos"
+date: "2025-06-23"
+author: "Paul Paredes"
+description: "Clase 12"
+image: "/images/lecture12.png"
+#date: 2025-05-05
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>Solución de los conflictos económicos</li>
+    <li>Los conflictos laborales</li>
+    <li>Los conflictos económicos laborales</li>
+    <li>El arbitraje potestativo</li>
+  </ul>
+</div> 
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-12-CONFLICTOS-ECONOMICOS.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<!--
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-P.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+
+<div class="mt-4">
+  <h4>Casos</h4>
+</div> 
+
+
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-CASOS.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+-->
