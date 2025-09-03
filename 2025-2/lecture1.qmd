@@ -1,0 +1,27 @@
+---
+title: "1 | La reforma de los procesos laborales en América Latina"
+date: "2025-09-18"
+author: "Paul Paredes"
+description: "Clase 1"
+image: "/images/lecture1.jpg"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-mdp-01-reforma_procesos_latam.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>Los principales ejes de las reformas en América Latina: oralidad,
+tecnología y acceso a la justicia</li>
+    <li>Una mirada desde el proceso laboral peruano, a modo de referencia</li>
+  </ul>
+</div>

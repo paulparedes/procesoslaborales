@@ -1,0 +1,56 @@
+---
+title: "5 | Pretensiones y competencia"
+date: "2025-10-02"
+author: "Paul Paredes"
+description: "Clase 5"
+image: "/images/lecture4.jpg"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>La Ley 32155</li>
+    <li>El ámbito de la justicia laboral</li>
+    <li>Las nuevas competencias de los JET</li>
+    <li>Esquema de competencia</li>
+    <li>Análisis crítico de la modificación</li>
+  </ul>
+</div> 
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-mdp-05-pretensiones-competencia.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<!--
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-P.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+
+<div class="mt-4">
+  <h4>Casos</h4>
+</div> 
+
+
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-CASOS.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+-->

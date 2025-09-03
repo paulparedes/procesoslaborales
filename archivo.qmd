@@ -1,0 +1,158 @@
+---
+title: "Material anterior"
+subtitle: "Archivo histórico del curso"
+date: "2025-09-03"
+date-format: long
+lang: es
+toc: true
+---
+
+::: {.callout-note}
+## Repositorio histórico
+Esta sección contiene todo el material académico de períodos anteriores del curso "Procesos laborales". Para el curso actual, consulta [**Clases 2025-2**](lectures-2025-2.qmd).
+:::
+
+# Material por períodos académicos
+
+## Período 2025-1
+**Programa completo dictado entre marzo-junio 2025**
+
+- [**Clases y cronograma 2025-1**](lectures-2025-1.qmd)
+- [**Materiales 2025-1 en Drive**](https://drive.google.com/drive/folders/1UwVw1l5sVBRwnDWxuvzW9xHHWD4SpN-I?usp=sharing)
+
+---
+
+## Períodos anteriores (2020-2024)
+
+### Material complementario disponible
+
+- [**Lecturas sugeridas**](https://drive.google.com/drive/folders/1e5nps7s3OpeyqWHWVG6szxk_6XNa7cbd?usp=sharing)
+- Jurisprudencia comentada
+- Material de apoyo para investigación
+
+---
+
+# Presentaciones por temas
+
+## 1. Fundamentos del proceso laboral
+
+### Reforma procesal y principios
+- **Clase 1:** [Reforma de procesos laborales en América Latina](../xaringan/2025-01-REFORMA-PROCESOS-LABORALES.html)
+- **Clase 2:** [Principios del proceso laboral](../xaringan/2025-02-PRINCIPIOS-PROCESO-LABORAL.html)
+
+### Sujetos y poderes
+- **Clase 3:** [Poderes de los jueces](../xaringan/2025-03-PODERES-JUECES.html)
+- **Clase 8:** [Participación de sindicatos](../xaringan/2025-08-PARTICIPACION-SINDICATOS.html)
+
+---
+
+## 2. Estructura del proceso laboral
+
+### Competencia y actos procesales
+- **Clase 4:** [Competencia por materia](../xaringan/2025-04-COMPETENCIA.html)
+- **Clase 7:** [Actos procesales](../xaringan/2025-07-ACTOS-PROCESALES.html)
+
+### Recursos y casación
+- **Clase 9:** [La casación laboral](../xaringan/2025-09-CASACION.html)
+
+---
+
+## 3. Mecanismos alternativos y procesos especiales
+
+### Resolución de conflictos
+- **Clase 11:** [MARCs - Mediación y arbitraje](../xaringan/2025-11-MARCs.html)
+
+### Procesos colectivos
+- **Clase 13:** [Procesos colectivos](../xaringan/2025-13-PROCESOS-COLECTIVOS.html)
+
+---
+
+# Bibliografía fundamental (histórica)
+
+## Textos básicos
+- **Cappelletti, Mauro** (2006): *El proceso civil en el derecho comparado. Las grandes tendencias evolutivas*. Lima: ARA Editores
+- **Couture, Eduardo** (1979): *Estudios de derecho procesal civil*. Volumen I, Tercera edición. Buenos Aires: Depalma
+- **Pasco Cosmópolis, Mario**: *Fundamentos de derecho procesal del trabajo*
+
+## Obras del profesor
+- **Paredes Palacios, Paul** (1997): *Prueba y presunciones en el proceso laboral*. Lima: ARA editores
+- **Paredes Palacios, Paul** (2020): "El principio de facilitación probatoria en el proceso laboral" en *Del derecho al razonamiento probatorio*. Madrid: Marcial Pons
+- **Paredes Palacios, Paul** (2021): "El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral" en *Ciencia y justicia*. México: Centro de Estudios Constitucionales
+
+---
+
+# Temas especializados desarrollados
+
+## Teoría de la prueba
+- Principio de facilitación probatoria
+- Carga probatoria dinámica
+- Presunciones en el derecho laboral
+- Prueba científica en casos laborales
+
+## Jurisprudencia laboral
+- Precedentes vinculantes del Tribunal Constitucional
+- Doctrina jurisprudencial de la Corte Suprema
+- Plenos jurisdiccionales en materia laboral
+- Evolución jurisprudencial en NLPT
+
+## Derecho procesal comparado
+- Reformas procesales en América Latina
+- Modelos de justicia laboral
+- Experiencias internacionales en oralidad
+
+---
+
+# Casos emblemáticos analizados
+
+## Despido y reposición
+- Jurisprudencia sobre despido fraudulento
+- Vía de hecho en despidos
+- Reposición vs. indemnización
+
+## Discriminación laboral
+- Tipos de discriminación (directa, indirecta)
+- Igualdad por compensación
+- Inversión de la carga de la prueba
+
+## Derechos colectivos
+- Procesos de tutela sindical
+- Negociación colectiva
+- Huelga y otros conflictos colectivos
+
+---
+
+# Metodología histórica del curso
+
+## Enfoques pedagógicos utilizados
+- **Método de casos:** Análisis de jurisprudencia relevante
+- **Derecho comparado:** Estudio de experiencias regionales
+- **Práctica forense:** Simulacros de audiencias
+- **Investigación:** Desarrollo de ensayos jurídicos
+
+## Herramientas de evaluación
+- Participación activa en debates
+- Exposiciones grupales especializadas
+- Análisis crítico de sentencias
+- Exámenes orales y escritos
+
+---
+
+# Recursos adicionales
+
+## Enlaces útiles
+- [**Página personal del profesor**](https://www.paulparedes.pe/)
+- [**Repositorio en GitHub**](https://github.com/PaulParedes/procesoslaborales)
+
+## Contacto para consultas sobre material archivado
+- **Email:** pgparede@pucp.edu.pe
+- **Twitter:** [@Paul_Paredes](https://twitter.com/Paul_Paredes)
+
+::: {.callout-tip}
+## Para estudiantes e investigadores
+El material archivado está disponible para fines académicos y de investigación. Para acceso a materiales específicos o consultas sobre contenidos históricos, contactar directamente al profesor.
+:::
+
+---
+
+*Última actualización del archivo: Septiembre 2025*  
+*Este repositorio se mantiene como referencia histórica del desarrollo del curso*

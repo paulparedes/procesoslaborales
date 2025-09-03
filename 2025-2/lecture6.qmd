@@ -1,0 +1,56 @@
+---
+title: "6 | Los actos procesales"
+date: "2025-10-07"
+author: "Paul Paredes"
+description: "Clase 6"
+image: "/images/lecture7.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>Presupuestos procesales</li>
+    <li>Condiciones de la acción</li>
+    <li>Privilegio del fondo sobre la forma</li>
+    <li>Suplencia de la demanda</li>
+    <li>Sentencia</li>
+  </ul>
+</div> 
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-mdp-06-actos_procesales.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<!--
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-P.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+
+<div class="mt-4">
+  <h4>Casos</h4>
+</div> 
+
+
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-04-COMPETENCIA-CASOS.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+-->

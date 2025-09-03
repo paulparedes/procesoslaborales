@@ -11,38 +11,58 @@ Curso que dicta el prof. Paul Paredes sobre el proceso laboral peruano en las ma
 
 ------------------------------------------------------------------------
 
-<span class='code'>✍️ &ensp;[Maestría en Derecho del Trabajo y Seguridad Social, PUCP](https://posgrado.pucp.edu.pe/maestria/derecho-trabajo-y-de-la-seguridad-social/)</span>
+<span class='code'>✏️ &ensp;[Maestría en Derecho del Trabajo y Seguridad Social, PUCP](https://posgrado.pucp.edu.pe/maestria/derecho-trabajo-y-de-la-seguridad-social/)</span>
 
-<span class='code'>✍️ &ensp;[Maestría en Derecho Procesal, UNMSM](http://upg.derecho.unmsm.edu.pe/DerechoProcesal.php)</span>
+<span class='code'>✏️ &ensp;[Maestría en Derecho Procesal, UNMSM](http://upg.derecho.unmsm.edu.pe/DerechoProcesal.php)</span>
 
 ------------------------------------------------------------------------
 
-# Sumilla
+:::{.callout-important}
+## Curso actual: 2025-2
+**Módulo:** Principios, objeto y sujetos  
+**Modalidad:** Presencial | **Sesiones:** 5 | **Horas:** 15 académicas  
+**Inicio:** 18 de septiembre de 2025
 
-Este es un curso especializado en Derecho Procesal del Trabajo. Los temas que se discutirán serán las reforma de los procesos laborales en América Latina; los fundamentos de la justicia laboral; los conflictos laborales y las vías de solución; las diferencias entre el proceso laboral y los medios alternativos; los poderes de los jueces; la intervención de las partes y, en especial, de los sindicatos; los medios de impugnación; los procesos laborales regulados en la NLPT, incluido los procesos colectivos; el razonamiento probatorio; y la llamada "teoría del caso" sobre la cual se presenta una visión crítica.
+👉 [**Ver clases 2025-2**](lectures-2025-2.qmd)
+:::
 
-## Objetivos generales de aprendizaje
+# Sumilla del curso actual (2025-2)
 
--  Comprender los fundamentos del proceso laboral.
+Este módulo especializado aborda los **fundamentos del derecho procesal laboral peruano**, con énfasis en el análisis de los principios que informan el proceso laboral, la delimitación del objeto procesal en materia laboral y el estudio de los sujetos que intervienen en la relación procesal laboral. Se examinarán las particularidades del proceso laboral en contraste con el proceso civil, la regulación contenida en la Nueva Ley Procesal del Trabajo (NLPT) y su aplicación práctica en el sistema de justicia laboral peruano.
 
--  Conocer la regulación normativa del proceso laboral peruano.
+## Objetivos específicos de aprendizaje (2025-2)
 
--  Conocer los fundamentos del razonamiento probatorio.
+-  **RA1:** Comprende y analiza los principios fundamentales que informan el proceso laboral peruano y su aplicación práctica en la NLPT
 
--  Conocer los elementos y condiciones para preparar adecuadamente un caso laboral.
+-  **RA2:** Identifica y caracteriza el objeto del proceso laboral, incluyendo las pretensiones deducibles y la competencia material de los juzgados laborales
+
+-  **RA3:** Examina la configuración de los sujetos procesales en el ámbito laboral, con especial atención a las particularidades de la representación procesal
+
+-  **RA4:** Evalúa críticamente el rol de los jueces laborales y sus poderes específicos en el marco del proceso laboral peruano
+
+---
+
+## Objetivos generales (programa completo)
+
+-  Comprender los fundamentos del proceso laboral
+
+-  Conocer la regulación normativa del proceso laboral peruano
+
+-  Conocer los fundamentos del razonamiento probatorio
+
+-  Conocer los elementos y condiciones para preparar adecuadamente un caso laboral
 
 # Profesor
 
 ![](images/pgpp.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Pr. Paul Paredes" width="200"}
 
-[**Mg. Paul Paredes**](https://paulparedes.pe/) es abogado litigante en causas de trabajadores y sindicatos. Asimismo, es profesor de derecho procesal del trabajo en las maestrías de Derecho del Trabajo y de la Seguridad Social en la Universidad Nacional Mayor de San Marcos y la Pontificia Universidad Católica del Perú. Es miembro de la Red Latinoamericana de Epistemología Jurídica promovida por la Univerdad de los Andes, Colombia. Paul cuenta con tres maestrías. Es maestro en Política Jurisdiccional por la PUCP (Lima, 2006); máster en Argumentación Jurídica por las universidades de Alicante y Palermo (España, Italia 2016); y máster en Razonamiento Probatorio por las universidades de Girona y Génova (España, Italia 2019). Es autor del libro Prueba y presunciones en el proceso laboral (ARA editores, Lima, 1997). Ha publicado el texto “El principio de facilitación probatoria en el proceso laboral” dentro de la obra colectiva Del derecho al razonamiento probatorio (Marcial Pons, Madrid, 2020), así como el artículo “El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral” en la investigación colectiva Ciencia y justicia (Centro de Estudios Constitucionales, México, 2021). Su línea de investigación es el proceso laboral, la teoría de la prueba y el razonamiento probatorio. Recientemente está investigando en la prueba de los daños en los casos de accidentes de trabajo, enfermedad profesional y despidos injustificados. También se desempeña como árbitro en materia laboral.
+[**Mg. Paul Paredes**](https://paulparedes.pe/) es abogado litigante en causas de trabajadores y sindicatos. Asimismo, es profesor de derecho procesal del trabajo en las maestrías de Derecho del Trabajo y de la Seguridad Social en la Universidad Nacional Mayor de San Marcos y la Pontificia Universidad Católica del Perú. Es miembro de la Red Latinoamericana de Epistemología Jurídica promovida por la Universidad de los Andes, Colombia. Paul cuenta con tres maestrías. Es maestro en Política Jurisdiccional por la PUCP (Lima, 2006); máster en Argumentación Jurídica por las universidades de Alicante y Palermo (España, Italia 2016); y máster en Razonamiento Probatorio por las universidades de Girona y Génova (España, Italia 2019). Es autor del libro Prueba y presunciones en el proceso laboral (ARA editores, Lima, 1997). Ha publicado el texto "El principio de facilitación probatoria en el proceso laboral" dentro de la obra colectiva Del derecho al razonamiento probatorio (Marcial Pons, Madrid, 2020), así como el artículo "El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral" en la investigación colectiva Ciencia y justicia (Centro de Estudios Constitucionales, México, 2021). Su línea de investigación es el proceso laboral, la teoría de la prueba y el razonamiento probatorio. Recientemente está investigando en la prueba de los daños en los casos de accidentes de trabajo, enfermedad profesional y despidos injustificados. También se desempeña como árbitro en materia laboral.
 
 <div align="center">
 <a href="https://www.paulparedes.pe/"><img border="0" alt="Blog" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="35" height="35"></a>&ensp;
 <a href="mailto:pgparede@pucp.pe"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8009/02dc3a5c-6504-4347-85fb-3f510cfecc45.svg" width="35" height="35"></a>&ensp;
 <a href="https://twitter.com/Paul_Paredes"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="35" height="35"></a>&ensp; 
 </div>
-
 
 <!--Include social share buttons-->
 

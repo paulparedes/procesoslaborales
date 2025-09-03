@@ -1,207 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://procesoslaborales.paulparedes.pe/index.html</loc>
-    <lastmod>2024-02-16T02:05:21.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/schedule.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/schedule.html</loc>
     <lastmod>2024-02-16T00:08:27.181Z</lastmod>
   </url>
   <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d9-01_casacion.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d9-01_casacion.html</loc>
     <lastmod>2024-02-16T03:39:14.553Z</lastmod>
   </url>
   <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d7-01_actos_procesales.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d7-01_actos_procesales.html</loc>
     <lastmod>2024-02-16T03:36:44.354Z</lastmod>
   </url>
   <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d5-01_procesos_1.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d5-01_procesos_1.html</loc>
     <lastmod>2024-02-16T03:35:23.654Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d3-01_jueces.html</loc>
-    <lastmod>2024-02-16T03:34:04.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d17-01_feriado.html</loc>
-    <lastmod>2024-02-15T22:28:25.882Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d15-01_teoria_caso_2.html</loc>
-    <lastmod>2024-02-16T03:44:05.416Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d13-01_prueba_1.html</loc>
-    <lastmod>2024-02-16T03:42:46.556Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d11-01_marcs.html</loc>
-    <lastmod>2024-02-16T03:39:53.677Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d1-02_reforma_pl_AL.html</loc>
-    <lastmod>2024-02-16T03:32:12.835Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/materials/09_projects.html</loc>
-    <lastmod>2023-01-18T01:58:06.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/license.html</loc>
-    <lastmod>2024-02-15T17:24:59.124Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/materials/01_introduction.html</loc>
-    <lastmod>2023-01-19T02:31:21.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d1-01_introduction.html</loc>
-    <lastmod>2024-02-15T22:25:07.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d10-01_examen_parcial.html</loc>
-    <lastmod>2024-02-15T22:27:11.166Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d12-01_conflic_eco_sindicatos.html</loc>
-    <lastmod>2024-02-16T03:41:53.872Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d14-01_teoria_caso_1.html</loc>
-    <lastmod>2024-02-16T03:43:17.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d16-01_examen_final.html</loc>
-    <lastmod>2024-02-15T22:28:14.318Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d2-01_fundamentos.html</loc>
-    <lastmod>2024-02-16T03:33:25.167Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d4-01_pretensiones.html</loc>
-    <lastmod>2024-02-16T03:34:48.358Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d6-01_procesos_2.html</loc>
-    <lastmod>2024-02-16T03:36:03.226Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/modules/d8-01_impugnaciones.html</loc>
-    <lastmod>2024-02-16T03:37:16.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://procesoslaborales.paulparedes.pe/resources.html</loc>
-    <lastmod>2023-01-17T23:30:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/index.html</loc>
-    <lastmod>2025-03-24T16:51:54.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d1-01_introduction.html</loc>
-    <lastmod>2024-02-15T22:25:07.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/license.html</loc>
-    <lastmod>2025-05-12T17:13:02.331Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d8-01_impugnaciones.html</loc>
-    <lastmod>2024-02-16T03:37:16.730Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d2-01_fundamentos.html</loc>
-    <lastmod>2024-02-16T03:33:25.167Z</lastmod>
   </url>
   <url>
     <loc>https://www.procesoslaborales.paulparedes.pe/modules/d3-01_jueces.html</loc>
     <lastmod>2024-04-22T18:41:00.046Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/schedule.html</loc>
-    <lastmod>2024-02-16T00:08:27.181Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d17-01_feriado.html</loc>
+    <lastmod>2024-02-15T22:28:25.882Z</lastmod>
   </url>
   <url>
     <loc>https://www.procesoslaborales.paulparedes.pe/modules/d15-01_teoria_caso_2.html</loc>
     <lastmod>2024-07-25T22:28:58.106Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture1.html</loc>
-    <lastmod>2025-04-07T20:37:47.419Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d13-01_prueba_1.html</loc>
+    <lastmod>2024-02-16T03:42:46.556Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture2.html</loc>
-    <lastmod>2025-04-07T17:38:39.436Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d11-01_marcs.html</loc>
+    <lastmod>2024-02-16T03:39:53.677Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/lectures.html</loc>
-    <lastmod>2025-05-12T17:12:01.380Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d1-02_reforma_pl_AL.html</loc>
+    <lastmod>2024-02-16T03:32:12.835Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture3.html</loc>
-    <lastmod>2025-04-07T20:39:45.035Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/license.html</loc>
+    <lastmod>2025-05-12T17:13:02.331Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture0.html</loc>
-    <lastmod>2025-04-07T20:37:28.679Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/lectures-2025-1.html</loc>
+    <lastmod>2025-09-03T22:02:40.616Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/template.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/archivo.html</loc>
+    <lastmod>2025-09-03T21:18:00.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture8.html</loc>
+    <lastmod>2025-09-03T22:44:02.757Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture6.html</loc>
+    <lastmod>2025-09-03T22:29:26.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture4.html</loc>
+    <lastmod>2025-09-03T22:25:45.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture2.html</loc>
+    <lastmod>2025-09-03T22:21:40.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/template.html</loc>
     <lastmod>2025-03-24T18:14:07.963Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture4.html</loc>
-    <lastmod>2025-04-21T21:19:25.035Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture5.html</loc>
-    <lastmod>2025-04-21T15:09:23.740Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture6.html</loc>
-    <lastmod>2025-04-26T23:15:10.058Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture7.html</loc>
-    <lastmod>2025-05-12T17:04:42.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture8.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture8.html</loc>
     <lastmod>2025-05-12T17:10:23.686Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture9.html</loc>
-    <lastmod>2025-05-17T19:19:20.477Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture6.html</loc>
+    <lastmod>2025-04-26T23:15:10.058Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture10.html</loc>
-    <lastmod>2025-06-16T15:25:01.419Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture4.html</loc>
+    <lastmod>2025-04-21T21:19:25.035Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture11.html</loc>
-    <lastmod>2025-06-16T15:28:32.358Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture2.html</loc>
+    <lastmod>2025-04-07T17:38:39.436Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture12.html</loc>
-    <lastmod>2025-06-21T19:44:25.834Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture15.html</loc>
+    <lastmod>2025-06-30T17:39:49.499Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture13.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture13.html</loc>
     <lastmod>2025-06-23T22:15:37.632Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture16.html</loc>
-    <lastmod>2025-06-30T17:34:28.561Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture11.html</loc>
+    <lastmod>2025-06-16T15:28:32.358Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture14.html</loc>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture1.html</loc>
+    <lastmod>2025-04-07T20:37:47.419Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture0.html</loc>
+    <lastmod>2025-04-07T20:37:28.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture10.html</loc>
+    <lastmod>2025-06-16T15:25:01.419Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture12.html</loc>
+    <lastmod>2025-06-21T19:44:25.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture14.html</loc>
     <lastmod>2025-06-30T17:32:55.245Z</lastmod>
   </url>
   <url>
-    <loc>https://www.procesoslaborales.paulparedes.pe/2025/lecture15.html</loc>
-    <lastmod>2025-06-30T17:39:49.499Z</lastmod>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture16.html</loc>
+    <lastmod>2025-06-30T17:34:28.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture3.html</loc>
+    <lastmod>2025-04-07T20:39:45.035Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture5.html</loc>
+    <lastmod>2025-04-21T15:09:23.740Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture7.html</loc>
+    <lastmod>2025-05-12T17:04:42.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-1/lecture9.html</loc>
+    <lastmod>2025-05-17T19:19:20.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture1.html</loc>
+    <lastmod>2025-09-03T22:14:46.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture3.html</loc>
+    <lastmod>2025-09-03T22:23:45.712Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture5.html</loc>
+    <lastmod>2025-09-03T22:27:41.249Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture7.html</loc>
+    <lastmod>2025-09-03T22:30:53.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/2025-2/lecture9.html</loc>
+    <lastmod>2025-09-03T22:43:00.217Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/index.html</loc>
+    <lastmod>2025-09-03T20:59:12.677Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/lectures-2025-2.html</loc>
+    <lastmod>2025-09-03T22:15:02.841Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d1-01_introduction.html</loc>
+    <lastmod>2024-02-15T22:25:07.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d10-01_examen_parcial.html</loc>
+    <lastmod>2024-02-15T22:27:11.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d12-01_conflic_eco_sindicatos.html</loc>
+    <lastmod>2024-02-16T03:41:53.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d14-01_teoria_caso_1.html</loc>
+    <lastmod>2024-02-16T03:43:17.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d16-01_examen_final.html</loc>
+    <lastmod>2024-02-15T22:28:14.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d2-01_fundamentos.html</loc>
+    <lastmod>2024-02-16T03:33:25.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d4-01_pretensiones.html</loc>
+    <lastmod>2024-02-16T03:34:48.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d6-01_procesos_2.html</loc>
+    <lastmod>2024-02-16T03:36:03.226Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/modules/d8-01_impugnaciones.html</loc>
+    <lastmod>2024-02-16T03:37:16.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.procesoslaborales.paulparedes.pe/resources.html</loc>
+    <lastmod>2023-01-17T23:30:40.000Z</lastmod>
   </url>
 </urlset>

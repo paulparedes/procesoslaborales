@@ -1,0 +1,29 @@
+---
+title: "3 | Los poderes de los jueces"
+date: "2025-09-25"
+author: "Paul Paredes"
+description: "Clase 3"
+image: "/images/lecture3.jpg"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-mdp-03-poderes_jueces.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>Las normas de origen judicial</li>
+    <li>Los precedentes en la doctrina</li>
+    <li>Los precedentes en el ordenamiento peruano</li>
+    <li>Precedente casatorio, doctrina jurisprudencial, plenos jurisdiccionales y otras figuras</li>
+    <li>Los plenos jurisdiccionales supremos en materia laboral</li>
+  </ul>
+</div>

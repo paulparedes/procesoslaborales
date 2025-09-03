@@ -1,0 +1,26 @@
+---
+title: "2 | Principios (y fundamentos) del proceso laboral"
+date: "2025-09-18"
+author: "Paul Paredes"
+description: "Clase 2"
+image: "/images/lecture2.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="text-center">
+  <p></p>
+  
+  <a href="../xaringan/2025-mdp-02-principios_proceso_laboral.html" class="btn btn-primary btn-lg">
+    <i class="fa-solid fa-presentation"></i> Ver presentación
+  </a>
+</div>
+
+<div class="mt-4">
+  <h4>Contenidos de la clase:</h4>
+  <ul>
+    <li>Principios y fundamentos del proceso laboral en general</li>
+    <li>Principios y fundamentos del proceso laboral peruano</li>
+  </ul>
+</div>

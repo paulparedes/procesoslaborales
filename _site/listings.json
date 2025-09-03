@@ -23,25 +23,39 @@
     ]
   },
   {
-    "listing": "/lectures.html",
+    "listing": "/lectures-2025-1.html",
     "items": [
-      "/2025/lecture0.html",
-      "/2025/lecture1.html",
-      "/2025/lecture2.html",
-      "/2025/lecture3.html",
-      "/2025/lecture4.html",
-      "/2025/lecture5.html",
-      "/2025/lecture6.html",
-      "/2025/lecture7.html",
-      "/2025/lecture8.html",
-      "/2025/lecture9.html",
-      "/2025/lecture10.html",
-      "/2025/lecture11.html",
-      "/2025/lecture12.html",
-      "/2025/lecture13.html",
-      "/2025/lecture14.html",
-      "/2025/lecture15.html",
-      "/2025/lecture16.html"
+      "/2025-1/lecture0.html",
+      "/2025-1/lecture1.html",
+      "/2025-1/lecture2.html",
+      "/2025-1/lecture3.html",
+      "/2025-1/lecture4.html",
+      "/2025-1/lecture5.html",
+      "/2025-1/lecture6.html",
+      "/2025-1/lecture7.html",
+      "/2025-1/lecture8.html",
+      "/2025-1/lecture9.html",
+      "/2025-1/lecture10.html",
+      "/2025-1/lecture11.html",
+      "/2025-1/lecture12.html",
+      "/2025-1/lecture13.html",
+      "/2025-1/lecture14.html",
+      "/2025-1/lecture15.html",
+      "/2025-1/lecture16.html"
+    ]
+  },
+  {
+    "listing": "/lectures-2025-2.html",
+    "items": [
+      "/2025-2/lecture1.html",
+      "/2025-2/lecture2.html",
+      "/2025-2/lecture3.html",
+      "/2025-2/lecture4.html",
+      "/2025-2/lecture5.html",
+      "/2025-2/lecture6.html",
+      "/2025-2/lecture7.html",
+      "/2025-2/lecture8.html",
+      "/2025-2/lecture9.html"
     ]
   }
 ]
