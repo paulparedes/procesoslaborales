@@ -1,0 +1,29 @@
+---
+title: "7 | Los actos procesales: demanda, contestación y sentencia"
+date: "2026-05-04"
+author: "Paul Paredes"
+description: "Clase 7"
+image: "/images/lecture7.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>La demanda laboral: requisitos y estructura</li>
+    <li>Admisibilidad y procedencia de la demanda</li>
+    <li>La contestación de demanda: requisitos y estrategia</li>
+    <li>Estructura y motivación de la sentencia laboral</li>
+    <li>El principio de congruencia en el proceso laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 15–21</li>
+    <li>Casación Laboral sobre motivación de sentencias (selección)</li>
+  </ul>
+</div>

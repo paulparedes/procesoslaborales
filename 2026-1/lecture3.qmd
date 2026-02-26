@@ -1,0 +1,30 @@
+---
+title: "3 | Poderes de los jueces"
+date: "2026-04-06"
+author: "Paul Paredes"
+description: "Clase 3"
+image: "/images/lecture3.jpg"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Las normas de origen judicial</li>
+    <li>Los precedentes en la doctrina</li>
+    <li>Los precedentes en el ordenamiento peruano</li>
+    <li>Precedente casatorio, doctrina jurisprudencial, plenos jurisdiccionales y otras figuras</li>
+    <li>Los plenos jurisdiccionales supremos en materia laboral</li>
+    <li>Poderes de dirección e impulso procesal del juez laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Taruffo, Michele. "Poderes probatorios de las partes y del juez en Europa." <em>Ius et Praxis</em>, 2006</li>
+    <li>Sentencias de la Corte Suprema sobre plenos jurisdiccionales laborales (selección)</li>
+  </ul>
+</div>

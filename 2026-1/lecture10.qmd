@@ -1,0 +1,23 @@
+---
+title: "10 | Examen parcial"
+date: "2026-05-25"
+author: "Paul Paredes"
+description: "Examen parcial"
+image: "/images/lecture10.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Examen parcial:</h4>
+  <p>Evaluación escrita sobre los contenidos de las Unidades I y II (clases 1–9).</p>
+  <ul>
+    <li>Reforma de los procesos laborales en América Latina</li>
+    <li>Principios y fundamentos del proceso laboral</li>
+    <li>Poderes de los jueces</li>
+    <li>Pretensiones y tipos de proceso laboral</li>
+    <li>Actos procesales y medios impugnatorios</li>
+    <li>Casación laboral</li>
+  </ul>
+</div>

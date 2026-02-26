@@ -7,8 +7,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.26">
 
   <meta name="author" content="Paul Paredes">
   <title>Procesos laborales – 2 | Principios (y fundamentos) del proceso laboral</title>
@@ -30,7 +30,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
   <link rel="stylesheet" href="../custom.css">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JW93WF08Z3"></script>
 
@@ -134,14 +134,14 @@
     }
   </style>
 <meta property="og:title" content="2 | Principios (y fundamentos) del proceso laboral – Procesos laborales">
-<meta property="og:description" content="Una perspectiva desde los derechos humanos">
-<meta property="og:image" content="https://www.procesoslaborales.paulparedes.pe/images/lecture2.png">
+<meta property="og:description" content="Curso de posgrado sobre procesos laborales y derecho procesal del trabajo. Maestría PUCP y UNMSM. Prof.&nbsp;Paul Paredes.">
+<meta property="og:image" content="https://procesoslaborales.paulparedes.pe/images/lecture2.png">
 <meta property="og:site_name" content="Procesos laborales">
 <meta property="og:image:height" content="1024">
 <meta property="og:image:width" content="1024">
 <meta name="twitter:title" content="2 | Principios (y fundamentos) del proceso laboral – Procesos laborales">
 <meta name="twitter:description" content="Una perspectiva desde los derechos humanos">
-<meta name="twitter:image" content="https://www.procesoslaborales.paulparedes.pe/images/lecture2.png">
+<meta name="twitter:image" content="https://procesoslaborales.paulparedes.pe/images/lecture2.png">
 <meta name="twitter:creator" content="@Paul_Paredes">
 <meta name="twitter:image-height" content="1024">
 <meta name="twitter:image-width" content="1024">
@@ -728,7 +728,7 @@ Paul Paredes
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -802,13 +802,14 @@ Paul Paredes
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
@@ -823,7 +824,7 @@ Paul Paredes
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("https:\/\/www\.procesoslaborales\.paulparedes\.pe");
+            var filterRegex = new RegExp("https:\/\/procesoslaborales\.paulparedes\.pe");
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }

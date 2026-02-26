@@ -1,0 +1,22 @@
+---
+title: "16 | Examen final"
+date: "2026-07-06"
+author: "Paul Paredes"
+description: "Examen final"
+image: "/images/lecture16.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Examen final:</h4>
+  <p>Evaluación escrita sobre los contenidos de las Unidades III y IV (clases 11–15) e integración de todo el curso.</p>
+  <ul>
+    <li>MARC: conciliación y arbitraje laboral</li>
+    <li>Solución de conflictos económicos</li>
+    <li>Participación de los sindicatos en el proceso</li>
+    <li>Teoría de la prueba en el proceso laboral</li>
+    <li>Razonamiento probatorio y teoría del caso</li>
+  </ul>
+</div>

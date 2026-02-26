@@ -1,0 +1,27 @@
+---
+title: "1 | La reforma de los procesos laborales en América Latina"
+date: "2026-03-23"
+author: "Paul Paredes"
+description: "Clase 1"
+image: "/images/lecture1.jpg"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Los principales ejes de las reformas en América Latina: oralidad, tecnología y acceso a la justicia</li>
+    <li>Una mirada desde el proceso laboral peruano, a modo de referencia</li>
+    <li>La NLPT y su ubicación en el contexto latinoamericano</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Ermida Uriarte, Óscar. "La nueva legislación laboral latinoamericana." <em>Derecho Laboral</em></li>
+    <li>Pasco Cosmópolis, Mario. "Fundamentos del Derecho Procesal del Trabajo." Lima: AELE</li>
+  </ul>
+</div>

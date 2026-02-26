@@ -1,0 +1,29 @@
+---
+title: "8 | Medios impugnatorios"
+date: "2026-05-11"
+author: "Paul Paredes"
+description: "Clase 8"
+image: "/images/lecture8.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Concepto y función de los medios impugnatorios</li>
+    <li>Remedios: reposición y nulidad</li>
+    <li>Recursos: apelación en el proceso laboral</li>
+    <li>El efecto suspensivo y la apelación sin efecto suspensivo</li>
+    <li>La segunda instancia en el proceso laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 32–37</li>
+    <li>Ledesma Narváez, Marianella. "Comentarios al Código Procesal Civil." Cap. sobre impugnación</li>
+  </ul>
+</div>

@@ -1,0 +1,423 @@
+/*
+ * ============================================================
+ *  paulparedes-quarto.scss
+ *  Identidad visual Paul Paredes — Paleta revitalizada 2026
+ *  Versión definitiva — Merriweather en títulos y cuerpo
+ * ============================================================
+ *  Ubicación: raíz del proyecto Quarto
+ *
+ *  En _quarto.yml:
+ *
+ *  format:
+ *    html:
+ *      theme:
+ *        - cosmo
+ *        - paulparedes-quarto.scss
+ *
+ *  website:
+ *    title: "Proceso Laboral — Paul Paredes"
+ *    navbar:
+ *      background: "#1E3A5F"
+ *
+ *  Google Fonts — agregar en _quarto.yml:
+ *    include-in-header:
+ *      text: |
+ *        <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Fira+Sans:wght@300;400;600;700&family=Fira+Mono:wght@400;700&display=swap" rel="stylesheet">
+ * ============================================================
+ */
+
+/*-- scss:defaults --*/
+
+/* Paleta */
+$pp-primary:    #1E3A5F;
+$pp-accent:     #C49332;
+$pp-bg:         #F7F5F0;
+$pp-contrast:   #9B3B2D;
+$pp-secondary:  #3D7A8A;
+$pp-support:    #6B7B6E;
+$pp-text:       #2C2C2C;
+$pp-border:     #D4CFC6;
+$pp-bg-alt:     #EDEAE4;
+
+/* Bootstrap / Quarto overrides */
+$body-bg:           $pp-bg;
+$body-color:        $pp-text;
+$link-color:        $pp-primary;
+$link-hover-color:  $pp-accent;
+
+/* Tipografía — Merriweather domina */
+$font-family-sans-serif: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-serif:      'Merriweather', Georgia, 'Times New Roman', serif;
+$font-family-monospace:  'Fira Mono', 'Source Code Pro', 'Courier New', monospace;
+$font-family-base:       $font-family-serif;
+$headings-font-family:   $font-family-serif;
+$headings-color:         $pp-primary;
+$headings-font-weight:   900;
+
+/* Tamaños */
+$font-size-base: 1rem;
+
+/* Navbar */
+$navbar-bg:         $pp-primary;
+$navbar-fg:         #FFFFFF;
+
+/* Sidebar */
+$sidebar-bg:     $pp-bg-alt;
+$sidebar-fg:     $pp-text;
+
+/*-- scss:rules --*/
+
+/* ----- Barra de navegación (Fira Sans aquí) ----- */
+.navbar {
+  background-color: $pp-primary !important;
+  border-bottom: 3px solid $pp-accent;
+  font-family: $font-family-sans-serif;
+}
+
+.navbar .navbar-brand {
+  font-weight: 700;
+  color: #FFFFFF !important;
+  font-family: $font-family-sans-serif;
+}
+
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-family: $font-family-sans-serif;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: $pp-accent !important;
+}
+
+/* ----- Títulos — Merriweather Black, compacto ----- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-serif;
+  color: $pp-primary;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  border-bottom: 1px solid $pp-accent;
+  padding-bottom: 0.3rem;
+  margin-top: 1.8rem;
+}
+
+/* ----- Cuerpo de texto ----- */
+body {
+  font-family: $font-family-serif;
+}
+
+/* ----- Enlaces ----- */
+a {
+  color: $pp-primary;
+}
+
+a:hover {
+  color: $pp-accent;
+}
+
+/* ----- Sidebar (para book/website) ----- */
+.sidebar {
+  background-color: $pp-bg-alt;
+  border-right: 1px solid $pp-border;
+}
+
+.sidebar .sidebar-title {
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
+  color: $pp-primary;
+}
+
+.sidebar .sidebar-item a {
+  color: $pp-text;
+}
+
+.sidebar .sidebar-item a:hover,
+.sidebar .sidebar-item a.active {
+  color: $pp-accent;
+  font-weight: 600;
+}
+
+/* ----- Callout boxes ----- */
+.callout-note {
+  border-left-color: $pp-secondary;
+}
+
+.callout-important {
+  border-left-color: $pp-contrast;
+}
+
+.callout-tip {
+  border-left-color: $pp-accent;
+}
+
+.callout-warning {
+  border-left-color: $pp-contrast;
+}
+
+/* ----- Bloques de cita ----- */
+blockquote {
+  border-left: 4px solid $pp-accent;
+  background-color: $pp-bg-alt;
+  padding: 0.8rem 1.2rem;
+  color: $pp-text;
+  font-style: normal;
+}
+
+/* ----- Código ----- */
+code {
+  color: $pp-primary;
+  background-color: rgba(30, 58, 95, 0.06);
+  padding: 0.15em 0.3em;
+  border-radius: 3px;
+}
+
+pre {
+  background-color: #1E1E2E;
+  border-left: 3px solid $pp-accent;
+  border-radius: 4px;
+}
+
+pre code {
+  color: #D4D4D4;
+  background-color: transparent;
+}
+
+/* ----- Tablas (Fira Sans en encabezados) ----- */
+table {
+  font-size: 0.92rem;
+}
+
+thead th {
+  background-color: $pp-primary;
+  color: #FFFFFF;
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(237, 234, 228, 0.5);
+}
+
+/* ----- Footer ----- */
+.nav-footer {
+  background-color: $pp-primary !important;
+  border-top: 3px solid $pp-accent;
+  font-family: $font-family-sans-serif;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.75) !important;
+  padding: 0.6em 0 !important;
+}
+
+.nav-footer a {
+  color: $pp-accent !important;
+}
+
+.nav-footer a:hover {
+  color: #FFFFFF !important;
+}
+
+.nav-footer .nav-footer-center,
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-right {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+
+/* ----- Separadores ----- */
+hr {
+  border-top: 1px solid $pp-accent;
+  opacity: 0.6;
+}
+
+/* ----- TOC lateral ----- */
+.toc-active .nav-link.active {
+  border-left: 2px solid $pp-accent;
+  color: $pp-primary;
+  font-weight: 600;
+}
+
+/* ----- Links de descarga / materiales ----- */
+a.download-link,
+a.material-link {
+  display: inline-block;
+  background: $pp-primary;
+  color: #FFFFFF;
+  padding: 0.4em 1em;
+  border-radius: 4px;
+  font-family: $font-family-sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+}
+
+a.download-link:hover,
+a.material-link:hover {
+  background: $pp-accent;
+  color: #FFFFFF;
+}
+
+/* ----- Hero section del curso ----- */
+.course-hero {
+  background: $pp-primary;
+  color: #fff;
+  padding: 3rem 2rem;
+  border-bottom: 4px solid $pp-accent;
+  margin-bottom: 2rem;
+  border-radius: 0 0 6px 6px;
+}
+
+.course-hero h1 {
+  color: #fff;
+  font-size: 2.8rem;
+  border-bottom: none;
+  margin-top: 0;
+}
+
+.course-hero h2 {
+  color: rgba(255,255,255,0.85);
+  border-bottom: none;
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-top: 0.3rem;
+}
+
+.course-hero p {
+  color: rgba(255,255,255,0.8);
+}
+
+.course-meta-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.2rem 0;
+}
+
+.course-meta-badge {
+  background: $pp-accent;
+  color: #fff;
+  padding: .25em .8em;
+  border-radius: 3px;
+  font-size: .85rem;
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+}
+
+.course-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.btn-hero-primary {
+  display: inline-block;
+  background: $pp-accent;
+  color: #fff !important;
+  padding: .6em 1.4em;
+  border-radius: 4px;
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
+  font-size: .95rem;
+  text-decoration: none !important;
+  border: 2px solid $pp-accent;
+  transition: background .2s, color .2s;
+}
+
+.btn-hero-primary:hover {
+  background: darken(#C49332, 10%);
+  color: #fff !important;
+}
+
+.btn-hero-outline {
+  display: inline-block;
+  background: transparent;
+  color: #fff !important;
+  padding: .6em 1.4em;
+  border-radius: 4px;
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  font-size: .95rem;
+  text-decoration: none !important;
+  border: 2px solid rgba(255,255,255,0.6);
+  transition: border-color .2s, background .2s;
+}
+
+.btn-hero-outline:hover {
+  border-color: $pp-accent;
+  background: rgba(196,147,50,0.15);
+  color: #fff !important;
+}
+
+/* ----- Tarjetas de unidad ----- */
+.unit-card {
+  border: 1px solid $pp-border;
+  border-top: 3px solid $pp-accent;
+  padding: 1.2rem;
+  border-radius: 4px;
+  background: $pp-bg;
+  height: 100%;
+}
+
+.unit-card h4 {
+  color: $pp-primary;
+  font-family: $font-family-sans-serif;
+  margin-top: 0;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+/* ----- Grid de resultados de aprendizaje ----- */
+.ra-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.ra-card {
+  background: $pp-bg-alt;
+  border-left: 3px solid $pp-secondary;
+  padding: .8rem 1rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.ra-card strong {
+  color: $pp-primary;
+  font-family: $font-family-sans-serif;
+}
+
+/* ----- Grid de unidades 2x2 ----- */
+.unit-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+/* ----- Utilidades ----- */
+.accent {
+  color: $pp-accent;
+}
+
+.teal {
+  color: $pp-secondary;
+}
+
+.alert-text {
+  color: $pp-contrast;
+  font-weight: 600;
+}
+
+.highlight-box {
+  background: $pp-bg-alt;
+  border-left: 4px solid $pp-accent;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  border-radius: 0 4px 4px 0;
+}

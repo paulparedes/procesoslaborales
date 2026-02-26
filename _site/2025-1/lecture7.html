@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="..//images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bec81cb018cfcf8f6f2483b9ec2532cd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-d179a5594d08d96246c5746777a92e47.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-de243b5ed9ae3dd8e43d6e2633e25b78.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -56,7 +57,7 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -78,17 +79,18 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-JW93WF08Z3', { 'anonymize_ip': true});
 </script>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&amp;family=Fira+Sans:wght@300;400;600;700&amp;family=Fira+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
 
 
 <meta property="og:title" content="7 | Los actos procesales – Procesos laborales">
-<meta property="og:description" content="Clase 7">
-<meta property="og:image" content="https://www.procesoslaborales.paulparedes.pe/images/lecture7.png">
+<meta property="og:description" content="Curso de posgrado sobre procesos laborales y derecho procesal del trabajo. Maestría PUCP y UNMSM. Prof.&nbsp;Paul Paredes.">
+<meta property="og:image" content="https://procesoslaborales.paulparedes.pe/images/lecture7.png">
 <meta property="og:site_name" content="Procesos laborales">
 <meta property="og:image:height" content="1024">
 <meta property="og:image:width" content="1024">
 <meta name="twitter:title" content="7 | Los actos procesales – Procesos laborales">
 <meta name="twitter:description" content="Clase 7">
-<meta name="twitter:image" content="https://www.procesoslaborales.paulparedes.pe/images/lecture7.png">
+<meta name="twitter:image" content="https://procesoslaborales.paulparedes.pe/images/lecture7.png">
 <meta name="twitter:creator" content="@Paul_Paredes">
 <meta name="twitter:image-height" content="1024">
 <meta name="twitter:image-width" content="1024">
@@ -103,7 +105,8 @@ gtag('config', 'G-JW93WF08Z3', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/logo.png" alt="" class="navbar-logo">
+    <img src="../images/logo.png" alt="" class="navbar-logo light-content">
+    <img src="../images/logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Procesos laborales</span>
@@ -116,8 +119,8 @@ gtag('config', 'G-JW93WF08Z3', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../lectures-2025-2.html"> 
-<span class="menu-text">Clases 2025-2</span></a>
+    <a class="nav-link" href="../lectures-2026-1.html"> 
+<span class="menu-text">Clases 2026-1</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://www.paulparedes.pe/about/" target="_blank"> 
@@ -313,13 +316,14 @@ Sentencia
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -334,7 +338,7 @@ Sentencia
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.procesoslaborales\.paulparedes\.pe");
+        var filterRegex = new RegExp("https:\/\/procesoslaborales\.paulparedes\.pe");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -669,9 +673,9 @@ Sentencia
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/PaulParedes/procesoslaborales/edit/main/2025-1/lecture7.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/PaulParedes/procesoslaborales/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/PaulParedes/procesoslaborales/edit/main/2025-1/lecture7.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/PaulParedes/procesoslaborales/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></div>
     <div class="nav-footer-right">
-<p>© Copyright 2025, Paul Paredes. Based on a previous work by Cédric Scherer and Marco Sciaini</p>
+<p>© Copyright 2026, Paul Paredes. Based on a previous work by Cédric Scherer and Marco Sciaini</p>
 </div>
   </div>
 </footer>

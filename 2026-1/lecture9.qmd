@@ -1,0 +1,29 @@
+---
+title: "9 | Casación laboral"
+date: "2026-05-18"
+author: "Paul Paredes"
+description: "Clase 9"
+image: "/images/lecture9.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Naturaleza y función de la casación laboral</li>
+    <li>Causales de casación en la NLPT</li>
+    <li>El recurso de casación: requisitos de admisibilidad y procedencia</li>
+    <li>La casación y la uniformización de la jurisprudencia laboral</li>
+    <li>El precedente vinculante y la doctrina jurisprudencial en casación laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 34–40</li>
+    <li>Casaciones laborales sobre precedentes vinculantes (selección)</li>
+  </ul>
+</div>

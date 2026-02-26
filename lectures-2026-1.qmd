@@ -1,0 +1,28 @@
+---
+title: "Clases 2026-1"
+image: "images/logo.png"
+page-layout: full
+lang: es
+listing:
+
+- id: lectures
+  contents: "2026-1/lecture*.qmd"
+  sort: "date asc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  fields: [image, date, title, author]
+
+page-navigation: false
+title-block-banner: false
+repo-actions: false
+---
+
+:::{#lectures}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

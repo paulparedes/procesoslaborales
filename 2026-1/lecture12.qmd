@@ -1,0 +1,29 @@
+---
+title: "12 | Solución de conflictos económicos"
+date: "2026-06-08"
+author: "Paul Paredes"
+description: "Clase 12"
+image: "/images/lecture12.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Conflictos colectivos de trabajo: concepto y clasificación</li>
+    <li>Conflictos de interés (económicos) vs. conflictos jurídicos</li>
+    <li>El proceso de negociación colectiva y sus etapas</li>
+    <li>La huelga y su regulación en el proceso</li>
+    <li>Intervención estatal en la solución de conflictos económicos</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Ley de Relaciones Colectivas de Trabajo — D. Ley 25593</li>
+    <li>Toyama Miyagusuku, Jorge. "Los conflictos colectivos laborales." <em>Ius et Veritas</em></li>
+  </ul>
+</div>

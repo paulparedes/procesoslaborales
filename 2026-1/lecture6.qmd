@@ -1,0 +1,29 @@
+---
+title: "6 | Otros tipos de proceso"
+date: "2026-04-27"
+author: "Paul Paredes"
+description: "Clase 6"
+image: "/images/lecture6.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Proceso de ejecución de resoluciones judiciales</li>
+    <li>Proceso cautelar en materia laboral</li>
+    <li>Proceso de reposición como medida cautelar</li>
+    <li>Procesos no contenciosos en materia laboral</li>
+    <li>La tutela de derechos fundamentales en el proceso laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 48–65</li>
+    <li>Arce Ortiz, Elmer. "La tutela de los derechos fundamentales en el proceso laboral." <em>Derecho PUCP</em></li>
+  </ul>
+</div>

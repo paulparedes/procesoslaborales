@@ -1,0 +1,29 @@
+---
+title: "13 | Participación de los sindicatos"
+date: "2026-06-15"
+author: "Paul Paredes"
+description: "Clase 13"
+image: "/images/lecture13.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Personería jurídica de los sindicatos y su capacidad procesal</li>
+    <li>La tutela sindical: protección contra actos antisindicales</li>
+    <li>Legitimación sindical para litigar en nombre de sus afiliados</li>
+    <li>Los sindicatos como parte en el proceso laboral colectivo</li>
+    <li>Jurisprudencia sobre tutela de la libertad sindical</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Ley de Relaciones Colectivas de Trabajo — D. Ley 25593 (Título I)</li>
+    <li>Paredes Palacios, Paul. Sentencias laborales sobre libertad sindical (selección)</li>
+  </ul>
+</div>

@@ -1,0 +1,29 @@
+---
+title: "11 | Conciliación y arbitraje"
+date: "2026-06-01"
+author: "Paul Paredes"
+description: "Clase 11"
+image: "/images/lecture11.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>Medios alternativos de resolución de conflictos laborales (MARC)</li>
+    <li>La conciliación laboral: extrajudicial y judicial</li>
+    <li>El arbitraje laboral: potestativo y voluntario</li>
+    <li>El arbitraje en conflictos económicos (negociación colectiva)</li>
+    <li>La ejecución del laudo arbitral laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Ley de Relaciones Colectivas de Trabajo — D. Ley 25593 (arts. sobre arbitraje)</li>
+    <li>Neves Mujica, Javier. "El arbitraje en la negociación colectiva." <em>Derecho PUCP</em></li>
+  </ul>
+</div>

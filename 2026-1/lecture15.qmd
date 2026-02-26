@@ -1,0 +1,29 @@
+---
+title: "15 | Razonamiento probatorio y Teoría del caso"
+date: "2026-07-03"
+author: "Paul Paredes"
+description: "Clase 15"
+image: "/images/lecture15.png"
+date-format: long
+lang: es
+format: html
+---
+
+<div class="mt-4">
+  <h4>Contenidos de la sesión:</h4>
+  <ul>
+    <li>El razonamiento probatorio: inferencias y estándares de prueba</li>
+    <li>La motivación de la sentencia en materia probatoria</li>
+    <li>Presunciones legales en el proceso laboral</li>
+    <li>La teoría del caso como instrumento de litigación oral</li>
+    <li>Preparación y presentación del caso laboral</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>Lecturas obligatorias:</h4>
+  <ul>
+    <li>Paredes Palacios, Paul. "El principio de facilitación probatoria en el proceso laboral." En <em>Del derecho al razonamiento probatorio</em>. Madrid: Marcial Pons, 2020</li>
+    <li>Ferrer Beltrán, Jordi. "La valoración racional de la prueba." Madrid: Marcial Pons, 2007 (cap. seleccionados)</li>
+  </ul>
+</div>

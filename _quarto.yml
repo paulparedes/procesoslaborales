@@ -5,19 +5,22 @@ project:
   render:
     - "*.qmd"
     - "!materials/exercises"
+    - "!_para_archivar/**"
 
 website:
   page-navigation: true
   title: "Procesos laborales"
-  description: "Página web del curso: Procesos laborales"
-  site-url: "https://www.procesoslaborales.paulparedes.pe"
+  description: "Curso de posgrado sobre procesos laborales, derecho procesal del trabajo, NLPT y razonamiento probatorio. Maestría PUCP y UNMSM. Prof. Paul Paredes."
+  site-url: "https://procesoslaborales.paulparedes.pe"
   
   repo-url: https://github.com/PaulParedes/procesoslaborales
   repo-actions: [edit, issue]
   
   google-analytics: "G-JW93WF08Z3"
   
-  open-graph: true
+  open-graph:
+    description: "Curso de posgrado sobre procesos laborales y derecho procesal del trabajo. Maestría PUCP y UNMSM. Prof. Paul Paredes."
+    image: "/images/pgpp.png"
   twitter-card:
     creator: "@Paul_Paredes"
     image: "/images/pgpp.png"
@@ -26,11 +29,11 @@ website:
 
   page-footer:
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    right: "&copy; Copyright 2025, Paul Paredes. Based on a previous work by Cédric Scherer and Marco Sciaini"
+    right: "&copy; Copyright 2026, Paul Paredes. Based on a previous work by Cédric Scherer and Marco Sciaini"
     background: "#484d6d"
 
   navbar:
-    background: "#484d6d"
+    background: "#1E3A5F" #"#484d6d"
     logo: "images/logo.png"
     pinned: true
     align: center
@@ -48,23 +51,21 @@ website:
         href: https://github.com/PaulParedes/procesoslaborales
         text: GitHub
     left:
-      - text: "Clases 2025-2"
-        href: lectures-2025-2.qmd
-      #    - text: "Cronograma 2025-2"
-      #      href: cronograma-2025-2.qmd
-      #- text: "Archivo"
-      #  menu:
-      #    - text: "Clases 2025-1"
-      #      href: lectures-2025-1.qmd
+      - text: "Clases 2026-1"
+        href: lectures-2026-1.qmd
       - text: Prof. Paul Paredes
         href: https://www.paulparedes.pe/about/
         target: _blank
 
 format:
   html:
+    lang: es
     theme:
-      light: [cosmo, theme.scss]
+      light: [cosmo, paulparedes-quarto.scss]
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Fira+Sans:wght@300;400;600;700&family=Fira+Mono:wght@400;700&display=swap" rel="stylesheet">
     toc: true
     code-copy: true
     code-overflow: wrap
-    mainfont: "Asap SemiCondensed"
+    #mainfont: "Asap SemiCondensed"
