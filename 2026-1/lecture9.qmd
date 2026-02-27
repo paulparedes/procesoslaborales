@@ -3,27 +3,33 @@ title: "9 | Casación laboral"
 date: "2026-05-18"
 author: "Paul Paredes"
 description: "Clase 9"
-image: "/images/lecture9.png"
+image: "/images/lecture9.jpg"
 date-format: long
 lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Naturaleza y función de la casación laboral</li>
-    <li>Causales de casación en la NLPT</li>
-    <li>El recurso de casación: requisitos de admisibilidad y procedencia</li>
-    <li>La casación y la uniformización de la jurisprudencia laboral</li>
-    <li>El precedente vinculante y la doctrina jurisprudencial en casación laboral</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-09-casacion-laboral.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 34–40</li>
-    <li>Casaciones laborales sobre precedentes vinculantes (selección)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad II — Tipos de procesos; actos procesales; y medios impugnatorios**
+
+- La casación laboral en el Perú
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Taller:** Análisis crítico de casaciones laborales reales
+
+## Evaluación
+
+- Asistencia
+
+## Lecturas obligatorias
+
+1. Taruffo, M. (2017). Las funciones de las cortes supremas entre uniformidad y justicia. *Revista de Derecho Yachaq*, 8, pp. 20-31.
+
+2. Nieva Fenoll, J. (2015). ¿Un juez supremo o un legislador supremo? En Priori Posada, G. (dir.), *Proceso y constitución*. Palestra, pp. 173-190.
+
+3. Marinoni, L. G. (2012). El precedente en la dimensión de la seguridad jurídica. *Revista Ius et Praxis*, 18(1), pp. 249-266.

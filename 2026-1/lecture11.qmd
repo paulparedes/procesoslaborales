@@ -9,21 +9,26 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Medios alternativos de resolución de conflictos laborales (MARC)</li>
-    <li>La conciliación laboral: extrajudicial y judicial</li>
-    <li>El arbitraje laboral: potestativo y voluntario</li>
-    <li>El arbitraje en conflictos económicos (negociación colectiva)</li>
-    <li>La ejecución del laudo arbitral laboral</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-11-marcs-conciliacion-arbitraje.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Ley de Relaciones Colectivas de Trabajo — D. Ley 25593 (arts. sobre arbitraje)</li>
-    <li>Neves Mujica, Javier. "El arbitraje en la negociación colectiva." <em>Derecho PUCP</em></li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad III — Mecanismos alternativos de resolución de conflictos. Solución de conflictos económicos. Participación de los sindicatos. Procesos colectivos**
+
+- Revisión de los principales medios alternativos de resolución de conflictos en general
+- La conciliación y el arbitraje en el proceso laboral peruano
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Control de lectura N.° 4**
+- **Simulación:** Audiencia de conciliación laboral (juego de roles)
+
+## Evaluación
+
+- Asistencia
+- **Control de lectura 4**
+
+## Lecturas obligatorias
+
+1. Aguiló Regla, J. (2015). *El arte de la mediación: argumentación, negociación y mediación*. Editorial Trotta (capítulos seleccionados).

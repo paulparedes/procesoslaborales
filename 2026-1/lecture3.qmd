@@ -9,22 +9,25 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Las normas de origen judicial</li>
-    <li>Los precedentes en la doctrina</li>
-    <li>Los precedentes en el ordenamiento peruano</li>
-    <li>Precedente casatorio, doctrina jurisprudencial, plenos jurisdiccionales y otras figuras</li>
-    <li>Los plenos jurisdiccionales supremos en materia laboral</li>
-    <li>Poderes de dirección e impulso procesal del juez laboral</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-03-poderes-jueces.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Taruffo, Michele. "Poderes probatorios de las partes y del juez en Europa." <em>Ius et Praxis</em>, 2006</li>
-    <li>Sentencias de la Corte Suprema sobre plenos jurisdiccionales laborales (selección)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad I — Fundamentos del proceso laboral**
+
+- Revisión de los poderes de los jueces en el proceso laboral peruano
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- Discusión de jurisprudencia
+
+## Evaluación
+
+- Asistencia
+
+## Lecturas obligatorias
+
+1. Nieva Fenoll, J. (2017). La actuación de oficio del Juez Nacional en aplicación del Derecho de la Unión Europea.
+
+2. Nieva Fenoll, J. (2014). El mal nombre del principio inquisitivo.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220">
+  <rect width="220" height="220" rx="24" fill="#1E3A5F" />
+  
+  <rect x="12" y="12" width="196" height="196" rx="16" fill="none" stroke="#C49332" stroke-width="3" />
+  <rect x="22" y="22" width="176" height="176" rx="10" fill="none" stroke="#C49332" stroke-width="1" opacity="0.6" />
+
+  <text x="85" y="150" font-family="Merriweather, Georgia, serif" font-weight="900" font-size="110" fill="#F7F5F0" text-anchor="middle">P</text>
+  <text x="145" y="150" font-family="Merriweather, Georgia, serif" font-weight="900" font-size="110" fill="#C49332" text-anchor="middle">L</text>
+</svg>

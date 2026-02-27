@@ -1,5 +1,5 @@
 ---
-title: "13 | Participación de los sindicatos"
+title: "13 | Participación de los sindicatos en el proceso laboral"
 date: "2026-06-15"
 author: "Paul Paredes"
 description: "Clase 13"
@@ -9,21 +9,28 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Personería jurídica de los sindicatos y su capacidad procesal</li>
-    <li>La tutela sindical: protección contra actos antisindicales</li>
-    <li>Legitimación sindical para litigar en nombre de sus afiliados</li>
-    <li>Los sindicatos como parte en el proceso laboral colectivo</li>
-    <li>Jurisprudencia sobre tutela de la libertad sindical</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-13-procesos-colectivos-sindicatos.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Ley de Relaciones Colectivas de Trabajo — D. Ley 25593 (Título I)</li>
-    <li>Paredes Palacios, Paul. Sentencias laborales sobre libertad sindical (selección)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad III — Mecanismos alternativos de resolución de conflictos. Solución de conflictos económicos. Participación de los sindicatos. Procesos colectivos**
+
+- Revisión de la participación de los sindicatos en la NLPT
+
+## Dinámica de clase
+
+- **Exposición grupal** del tema por estudiantes
+- Complementación por el docente
+- **Control de lectura N.° 5**
+
+## Evaluación
+
+- Asistencia
+- **Exposición grupal (Grupo B)**
+- **Control de lectura 5**
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (2017). ¿Es eficaz el proceso colectivo laboral peruano? En Priori Posada, G. F. (Ed.), *Proceso y Constitución: Derecho material y proceso*. Palestra.
+
+2. Gidi, A. (2004). *Las acciones colectivas y la tutela de los derechos difusos, colectivos e individuales en Brasil*. UNAM (capítulos seleccionados).

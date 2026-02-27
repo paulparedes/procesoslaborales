@@ -9,21 +9,27 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>El proceso ordinario laboral: estructura y etapas</li>
-    <li>Audiencia de conciliación y juzgamiento</li>
-    <li>El proceso abreviado laboral</li>
-    <li>El proceso impugnativo de laudos arbitrales</li>
-    <li>Diferencias con el proceso civil</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-05-tipos-procesos-laborales.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 22–47</li>
-    <li>Ferro Delgado, Víctor. "El proceso laboral ordinario en la NLPT." <em>IUS ET VERITAS</em></li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad II — Tipos de procesos; actos procesales; y medios impugnatorios**
+
+- Procesos de conocimiento en la NLPT: ordinario, abreviado y único
+- Impugnación de laudos arbitrales económicos
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Control de lectura N.° 3**
+
+## Evaluación
+
+- Asistencia
+- **Control de lectura 3**
+
+## Lecturas obligatorias
+
+1. Priori Posada, G. F. (2011). *Comentarios a la Nueva Ley Procesal del Trabajo*. ARA Editores (capítulos sobre tipos de procesos).
+
+2. Paredes Palacios, P. (2018). Base doctrinal del juzgamiento anticipado.

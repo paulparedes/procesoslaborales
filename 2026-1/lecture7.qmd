@@ -9,21 +9,29 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>La demanda laboral: requisitos y estructura</li>
-    <li>Admisibilidad y procedencia de la demanda</li>
-    <li>La contestación de demanda: requisitos y estrategia</li>
-    <li>Estructura y motivación de la sentencia laboral</li>
-    <li>El principio de congruencia en el proceso laboral</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-07-actos-procesales.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 15–21</li>
-    <li>Casación Laboral sobre motivación de sentencias (selección)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad II — Tipos de procesos; actos procesales; y medios impugnatorios**
+
+- Revisión de los requisitos y contenido de los principales actos procesales en la NLPT
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Taller:** Redacción de actos procesales (demanda y contestación en parejas)
+
+## Evaluación
+
+- Asistencia
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (2020). El reto de los procesos (laborales) orales ante las medidas sanitarias de distanciamiento social: Hacia una justicia en línea. paulparedes.pe.
+
+2. Paredes Palacios, P. (2012). La oralidad en el nuevo proceso laboral peruano y el acceso a la justicia (al sistema jurídico laboral).
+
+## Lectura complementaria
+
+- Cappelletti, M. (1960). Valor actual del principio de oralidad.

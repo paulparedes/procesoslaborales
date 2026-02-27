@@ -3,27 +3,33 @@ title: "4 | Pretensiones en la justicia laboral"
 date: "2026-04-13"
 author: "Paul Paredes"
 description: "Clase 4"
-image: "/images/lecture4.png"
+image: "/images/lecture4.jpg"
 date-format: long
 lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>El objeto del proceso: la pretensión procesal</li>
-    <li>Pretensiones individuales y colectivas en materia laboral</li>
-    <li>Competencia material de los juzgados laborales (NLPT, art. 2)</li>
-    <li>Competencia de los juzgados de paz letrado en materia laboral</li>
-    <li>Acumulación de pretensiones</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-04-pretensiones-justicia-laboral.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 1–6</li>
-    <li>Casación Laboral sobre competencia material (selección)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad I — Fundamentos del proceso laboral**
+
+- Revisión de las pretensiones o materias laborales y de su regulación en el ordenamiento peruano
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Control de lectura N.° 2**
+- **Taller:** Mapa de pretensiones laborales (trabajo grupal en clase)
+
+## Evaluación
+
+- Asistencia
+- **Control de lectura 2**
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (2025). La pretensión principal única en la Nueva Ley Procesal del Trabajo: origen, conflicto interpretativo y crítica al atomismo procesal. Zenodo.
+
+2. Paredes Palacios, P. (2025). La competencia por materia en el proceso laboral peruano: impacto de la modificación introducida por la Ley 32155. paulparedes.pe.

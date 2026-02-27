@@ -1,29 +1,38 @@
 ---
-title: "14 | Teoría de la prueba"
+title: "14 | Teoría de la prueba. Actuación probatoria y presunciones"
 date: "2026-06-22"
 author: "Paul Paredes"
 description: "Clase 14"
-image: "/images/lecture14.png"
+image: "/images/lecture14.jpg"
 date-format: long
 lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>El objeto de la prueba: hechos y afirmaciones</li>
-    <li>La carga de la prueba en el proceso laboral: regla general e inversiones</li>
-    <li>Medios probatorios admisibles en el proceso laboral</li>
-    <li>Valoración de la prueba: libre convicción y sana crítica</li>
-    <li>El principio de facilitación probatoria</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-14-teoria-prueba-presunciones.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Paredes Palacios, Paul. <em>Prueba y presunciones en el proceso laboral</em>. Lima: ARA, 1997 (cap. seleccionados)</li>
-    <li>Taruffo, Michele. "La prueba." Madrid: Marcial Pons, 2008 (cap. 1–2)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad IV — Teoría de la prueba y razonamiento probatorio**
+
+- Revisión de la actuación probatoria en el proceso laboral
+- Las presunciones en el derecho procesal del trabajo
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Taller:** Reconstrucción del razonamiento probatorio de una sentencia
+
+## Evaluación
+
+- Asistencia
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (1997). *Prueba y presunciones en el proceso laboral*. ARA Editores (capítulos seleccionados).
+
+2. Aguiló Regla, J. (2006). Presunciones, verdad y normas procesales. *Isegoría: Revista de filosofía moral y política*, 35.
+
+3. Ullmann-Margalit, E. (1983). On presumption. *The Journal of Philosophy*, 80(3), 143-163. https://doi.org/10.2307/2026132
+
+4. Goldman, A. I. (1999). *Knowledge in a social world*. Clarendon Press; Oxford University Press.

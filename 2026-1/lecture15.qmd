@@ -1,5 +1,5 @@
 ---
-title: "15 | Razonamiento probatorio y Teoría del caso"
+title: "15 | Razonamiento probatorio y teoría del caso"
 date: "2026-07-03"
 author: "Paul Paredes"
 description: "Clase 15"
@@ -9,21 +9,49 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>El razonamiento probatorio: inferencias y estándares de prueba</li>
-    <li>La motivación de la sentencia en materia probatoria</li>
-    <li>Presunciones legales en el proceso laboral</li>
-    <li>La teoría del caso como instrumento de litigación oral</li>
-    <li>Preparación y presentación del caso laboral</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-15-razonamiento-probatorio-teoria-caso.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Paredes Palacios, Paul. "El principio de facilitación probatoria en el proceso laboral." En <em>Del derecho al razonamiento probatorio</em>. Madrid: Marcial Pons, 2020</li>
-    <li>Ferrer Beltrán, Jordi. "La valoración racional de la prueba." Madrid: Marcial Pons, 2007 (cap. seleccionados)</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad IV — Teoría de la prueba y razonamiento probatorio**
+
+**Parte 1 — Construcción de la teoría del caso**
+
+- Razonamiento probatorio y teoría del caso
+- Construcción de la teoría del caso
+
+**Parte 2 — Límites de la teoría del caso**
+
+- Límites de la teoría del caso desde la perspectiva de la defensa y del órgano decisor
+
+## Dinámica de clase
+
+**Parte 1**
+
+- Clase magistral participativa
+- **Simulación:** Juego de roles — construcción de la teoría del caso (abogados y jueces)
+- **Control de lectura N.° 6**
+
+**Parte 2**
+
+- **Simulación:** Confrontación de teorías del caso y evaluación crítica
+- Discusión plenaria sobre los límites de la teoría del caso
+
+## Evaluación
+
+- Asistencia
+- **Control de lectura 6**
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (2020). El principio de facilitación probatoria en el proceso laboral. En Ferrer Beltrán, J. y Vázquez, C. (Eds.), *Del derecho al razonamiento probatorio* (pp. 77-104). Marcial Pons.
+
+2. González Lagier, D. (2018). Prueba y argumentación. ¿Es posible formular un estándar de prueba preciso y objetivo?
+
+## Lecturas complementarias
+
+- Anderson, T., Schum, D. y Twining, W. (2015). *Análisis de la prueba*. Marcial Pons (capítulos seleccionados).
+
+- Paredes Palacios, P. (2023). El valor probatorio del silencio en contextos de desigualdad material.
+
+- Paredes Palacios, P. (2021). El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral. En Vázquez Rojas, C. (Ed.), *Ciencia y Justicia*. SCJN, pp. 187-240.

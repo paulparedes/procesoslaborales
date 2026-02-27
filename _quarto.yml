@@ -25,7 +25,7 @@ website:
     creator: "@Paul_Paredes"
     image: "/images/pgpp.png"
 
-  favicon: "/images/favicon.ico"
+  favicon: "/images/favicon.svg"
 
   page-footer:
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
@@ -34,7 +34,7 @@ website:
 
   navbar:
     background: "#1E3A5F" #"#484d6d"
-    logo: "images/logo.png"
+    logo: "images/logo5.svg" #png"
     pinned: true
     align: center
     right:

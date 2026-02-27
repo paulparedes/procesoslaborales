@@ -9,19 +9,28 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Los principales ejes de las reformas en América Latina: oralidad, tecnología y acceso a la justicia</li>
-    <li>Una mirada desde el proceso laboral peruano, a modo de referencia</li>
-    <li>La NLPT y su ubicación en el contexto latinoamericano</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-01-reforma-procesos-latam.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Ermida Uriarte, Óscar. "La nueva legislación laboral latinoamericana." <em>Derecho Laboral</em></li>
-    <li>Pasco Cosmópolis, Mario. "Fundamentos del Derecho Procesal del Trabajo." Lima: AELE</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad I — Fundamentos del proceso laboral**
+
+- Presentación del curso: estructura, metodología y evaluación
+- Los principales ejes de las reformas procesales laborales en América Latina: oralidad, tecnología y acceso a la justicia
+- Una mirada desde el proceso laboral peruano, a modo de referencia
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Debate estructurado:** ¿Reforma exitosa o promesa incumplida?
+- Recolección de saberes previos
+
+## Evaluación
+
+- Asistencia
+
+## Lecturas obligatorias
+
+1. Cappelletti, M. (1979). Acceso a la justicia: conclusión de un proyecto internacional de investigación jurídico-sociológica. *Il Foro Italiano*.
+
+2. Paredes Palacios, P. (2012). La oralidad como herramienta para el acceso a la justicia en el nuevo proceso laboral peruano. *V Congreso Nacional de la Sociedad Peruana de Derecho del Trabajo y la Seguridad Social (SPDTSS)*.

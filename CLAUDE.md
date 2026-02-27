@@ -84,6 +84,31 @@ Custom component classes: `.course-hero`, `.course-meta-badge`, `.unit-card`, `.
 
 The site deploys automatically via **Netlify** on push to `main`. The rendered output goes to `_site/` (not committed). The canonical URL is `https://procesoslaborales.paulparedes.pe`.
 
-### Files to ignore
+### Logo (`images/logo.png`)
 
-`notas-quarto.txt` — scratch notes from a different course (residual). `index.qmd.old`, `_quarto.yml.old` — backup snapshots. `modules/`, `data/` — residual from the original template (unused). `styles.css`, `custom.css` — `custom.css` is used by revealjs slides; `styles.css` is a residual.
+El logo del sitio es `images/logo.png`, referenciado en `index.qmd` con `width="220"`. El diseño del logo es responsabilidad del usuario — **no intentar reemplazarlo ni generarlo desde Claude Code**.
+
+### Lecture pages (`YYYY-S/lectureN.qmd`)
+
+Estructura de cada archivo de clase (basada en el sílabo TSS603 2026-1):
+
+```markdown
+[→ Diapositivas](../xaringan/RUTA.html){.btn-hero-primary target="_blank"}
+
+## Contenidos de la sesión
+## Dinámica de clase
+## Evaluación
+## Lecturas obligatorias
+## Lecturas complementarias   ← solo si las hay
+```
+
+Las sesiones 10 (examen parcial) y 16 (examen final) no llevan botón de diapositivas.
+Los paths de diapositivas siguen la convención `xaringan/2026-NN-tema.html`.
+
+### Files to ignore / residuales
+
+- `notas-quarto.txt` — apuntes de otro curso (residual)
+- `index.qmd.old`, `_quarto.yml.old` — snapshots de respaldo
+- `custom.css` — usado por slides revealjs; no tocar
+- `_para_archivar/` — carpeta vacía; conservar por si se reutiliza
+- `slides-2024-1.zip`, `README.html`, `README.md` — archivos residuales del clon original

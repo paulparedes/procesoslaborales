@@ -3,20 +3,27 @@ title: "16 | Examen final"
 date: "2026-07-06"
 author: "Paul Paredes"
 description: "Examen final"
-image: "/images/lecture16.png"
+image: "/images/lecture10.png"
 date-format: long
 lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Examen final:</h4>
-  <p>Evaluación escrita sobre los contenidos de las Unidades III y IV (clases 11–15) e integración de todo el curso.</p>
-  <ul>
-    <li>MARC: conciliación y arbitraje laboral</li>
-    <li>Solución de conflictos económicos</li>
-    <li>Participación de los sindicatos en el proceso</li>
-    <li>Teoría de la prueba en el proceso laboral</li>
-    <li>Razonamiento probatorio y teoría del caso</li>
-  </ul>
-</div>
+## Examen final
+
+Evaluación escrita y/u oral (según indicación previa del docente).
+
+**Comprende las lecturas y contenidos de las semanas 11 a 15:**
+
+- Unidad III: Mecanismos alternativos de resolución de conflictos. Solución de conflictos económicos. Participación de los sindicatos. Procesos colectivos
+  - Conciliación y arbitraje
+  - Solución de conflictos económicos
+  - Participación de los sindicatos en la NLPT
+- Unidad IV: Teoría de la prueba y razonamiento probatorio
+  - Teoría de la prueba. Actuación probatoria y presunciones
+  - Razonamiento probatorio y teoría del caso (Partes 1 y 2)
+
+## Evaluación
+
+- Asistencia
+- **Examen final (EF) — 25 % de la nota final**

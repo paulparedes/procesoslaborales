@@ -9,15 +9,25 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Examen parcial:</h4>
-  <p>Evaluación escrita sobre los contenidos de las Unidades I y II (clases 1–9).</p>
-  <ul>
-    <li>Reforma de los procesos laborales en América Latina</li>
-    <li>Principios y fundamentos del proceso laboral</li>
-    <li>Poderes de los jueces</li>
-    <li>Pretensiones y tipos de proceso laboral</li>
-    <li>Actos procesales y medios impugnatorios</li>
-    <li>Casación laboral</li>
-  </ul>
-</div>
+## Examen parcial
+
+Evaluación escrita y/u oral (según indicación previa del docente).
+
+**Comprende las lecturas y contenidos de las semanas 1 a 9:**
+
+- Unidad I: Fundamentos del proceso laboral; pretensiones deducibles en juicio
+  - La reforma de los procesos laborales en América Latina
+  - Principios y fundamentos del proceso laboral
+  - Poderes de los jueces
+  - Pretensiones en la justicia laboral
+- Unidad II: Tipos de procesos; actos procesales; y medios impugnatorios
+  - Tipos de procesos (netamente) laborales
+  - Otros tipos de proceso (contencioso-administrativo y amparo)
+  - Los actos procesales: demanda, contestación y sentencia
+  - Medios impugnatorios
+  - Casación laboral
+
+## Evaluación
+
+- Asistencia
+- **Examen parcial (EP) — 25 % de la nota final**

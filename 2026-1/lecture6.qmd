@@ -1,5 +1,5 @@
 ---
-title: "6 | Otros tipos de proceso"
+title: "6 | Otros tipos de proceso: contencioso-administrativo y amparo"
 date: "2026-04-27"
 author: "Paul Paredes"
 description: "Clase 6"
@@ -9,21 +9,32 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Proceso de ejecución de resoluciones judiciales</li>
-    <li>Proceso cautelar en materia laboral</li>
-    <li>Proceso de reposición como medida cautelar</li>
-    <li>Procesos no contenciosos en materia laboral</li>
-    <li>La tutela de derechos fundamentales en el proceso laboral</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-06-procesos-no-nlpt.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Nueva Ley Procesal del Trabajo (Ley 29497), arts. 48–65</li>
-    <li>Arce Ortiz, Elmer. "La tutela de los derechos fundamentales en el proceso laboral." <em>Derecho PUCP</em></li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad II — Tipos de procesos; actos procesales; y medios impugnatorios**
+
+- Revisión del proceso contencioso administrativo en materia laboral
+- La acción de amparo como vía de tutela de derechos laborales fundamentales
+
+## Dinámica de clase
+
+- **Exposición grupal** del tema por estudiantes
+- Complementación por el docente
+- Discusión en clase
+
+## Evaluación
+
+- Asistencia
+- **Exposición grupal (Grupo A)**
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (2010). La Nueva Ley Procesal del Trabajo y la acción de amparo en materia laboral. En *Doctrina y análisis sobre la Nueva Ley Procesal del Trabajo* (pp. 117-170). Academia de la Magistratura del Perú.
+
+2. Paredes Palacios, P. (2011). El Tribunal de Servicio Civil enfrentado a la necesidad de regulación de la vía previa, los precedentes del Tribunal Constitucional y la Nueva Ley Procesal del Trabajo. *Ius et veritas*, 42, 250-260.
+
+## Lectura complementaria
+
+- Arce Ortiz, E. G. (2012). La tutela laboral de los derechos fundamentales del trabajador. Una asignatura pendiente en tiempos de reforma. *Derecho PUCP*.

@@ -9,20 +9,27 @@ lang: es
 format: html
 ---
 
-<div class="mt-4">
-  <h4>Contenidos de la sesión:</h4>
-  <ul>
-    <li>Principios y fundamentos del proceso laboral en general</li>
-    <li>Principios del proceso laboral peruano: oralidad, inmediación, concentración, celeridad</li>
-    <li>El principio protector y sus manifestaciones procesales</li>
-    <li>Veracidad, prevalencia del fondo sobre la forma</li>
-  </ul>
-</div>
+[→ Diapositivas](../xaringan/2026-02-principios-proceso-laboral.html){.btn-hero-primary target="_blank"}
 
-<div class="mt-4">
-  <h4>Lecturas obligatorias:</h4>
-  <ul>
-    <li>Pasco Cosmópolis, Mario. "Fundamentos del Derecho Procesal del Trabajo." Lima: AELE</li>
-    <li>Paredes Palacios, Paul. "El principio de facilitación probatoria en el proceso laboral." En <em>Del derecho al razonamiento probatorio</em>. Madrid: Marcial Pons, 2020</li>
-  </ul>
-</div>
+## Contenidos de la sesión
+
+**Unidad I — Fundamentos del proceso laboral**
+
+- Principios y fundamentos del proceso laboral en general
+- Principios y fundamentos del proceso laboral peruano
+
+## Dinámica de clase
+
+- Clase magistral participativa
+- **Control de lectura N.° 1**
+
+## Evaluación
+
+- Asistencia
+- **Control de lectura 1**
+
+## Lecturas obligatorias
+
+1. Paredes Palacios, P. (2011). Formación y fundamentos de la Nueva Ley Procesal del Trabajo. Disponible en Academia.edu.
+
+2. Pasco Cosmópolis, M. (1997). *Fundamentos de derecho procesal del trabajo*. Aele (capítulo sobre principios).

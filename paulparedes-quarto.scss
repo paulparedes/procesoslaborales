@@ -92,6 +92,13 @@ $sidebar-fg:     $pp-text;
   color: $pp-accent !important;
 }
 
+/* ----- Ajuste de tamaño para el logo SVG en el Navbar ----- */
+.navbar-brand img {
+  max-height: 25px; /* Aumenta o disminuye este valor para cambiar el tamaño visual */
+  width: auto;      /* Garantiza que la proporción 1:1 (cuadrada) no se deforme */
+  margin-right: 12px; /* Añade un espacio respirable entre el logo y el título "Proceso Laboral" */
+}
+
 /* ----- Títulos — Merriweather Black, compacto ----- */
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-serif;
