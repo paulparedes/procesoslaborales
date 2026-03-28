@@ -28,6 +28,12 @@ format: html
 
 ## Lecturas obligatorias
 
-1. Nieva Fenoll, J. (2017). La actuación de oficio del Juez Nacional en aplicación del Derecho de la Unión Europea.
+1. Nieva Fenoll, Jordi. (2014). El mal nombre del principio inquisitivo.
 
-2. Nieva Fenoll, J. (2014). El mal nombre del principio inquisitivo.
+2. Taruffo, Michele. (2012). El precedente judicial en los sistemas de Civil Law.
+
+## Lecturas complementarias
+
+3. Cross, Rupert. (1977). Precedent in English Law.
+
+4. Nieva Fenoll, Jordi. (2017). La actuación de oficio del Juez Nacional en aplicación del Derecho de la Unión Europea.

@@ -9,7 +9,7 @@ lang: es
 format: html
 ---
 
-[→ Diapositivas](../xaringan/2026-02-principios-proceso-laboral.html){.btn-hero-primary target="_blank"}
+[→ Diapositivas](../xaringan/2026-02-principios_proceso_laboral.html){.btn-hero-primary target="_blank"}
 
 ## Contenidos de la sesión
 
@@ -30,6 +30,12 @@ format: html
 
 ## Lecturas obligatorias
 
-1. Paredes Palacios, P. (2011). Formación y fundamentos de la Nueva Ley Procesal del Trabajo. Disponible en Academia.edu.
+1. Pasco Cosmópolis, M. (1997). *Fundamentos de derecho procesal del trabajo*. Aele (capítulo sobre principios).
 
-2. Pasco Cosmópolis, M. (1997). *Fundamentos de derecho procesal del trabajo*. Aele (capítulo sobre principios).
+2. Paredes Palacios, P. (2020). El principio de facilitación probatoria. Primera sección.
+
+
+## Lecturas complementarias
+
+3. Paredes Palacios, P. (2011). Formación y fundamentos de la Nueva Ley Procesal del Trabajo. Disponible en Academia.edu.
+
