@@ -9,7 +9,7 @@ lang: es
 format: html
 ---
 
-[→ Diapositivas](../xaringan/2026-03-poderes-jueces.html){.btn-hero-primary target="_blank"}
+[→ Diapositivas](../xaringan/2026-03-poderes_jueces.html){.btn-hero-primary target="_blank"}
 
 ## Contenidos de la sesión
 
