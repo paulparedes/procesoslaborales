@@ -33,3 +33,6 @@ format: html
 1. Priori Posada, G. F. (2011). *Comentarios a la Nueva Ley Procesal del Trabajo*. ARA Editores (capítulos sobre tipos de procesos).
 
 2. Paredes Palacios, P. (2018). Base doctrinal del juzgamiento anticipado.
+
+
+[→ Diapositivas](../xaringan/slides-xaringan-presencial-del-santa.html)
