@@ -1,0 +1,16 @@
+---
+title: "11 | Ejecución sedes presencial"
+date: "2026-05-22"
+author: "Paul Paredes"
+description: "Clase 11"
+image: "/images/lecture5.png"
+date-format: long
+lang: es
+format: html
+---
+
+
+[→ Diapositivas](../xaringan/slides-xaringan-presencial-del-santa.html){.btn-hero-primary target="_blank"}
+
+[→ Diapositivas](../xaringan/slides-xaringan-presencial-lima-este.html){.btn-hero-primary target="_blank"}
+

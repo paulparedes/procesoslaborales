@@ -34,5 +34,3 @@ format: html
 
 2. Paredes Palacios, P. (2018). Base doctrinal del juzgamiento anticipado.
 
-
-[→ Diapositivas](../xaringan/slides-xaringan-presencial-del-santa.html)
