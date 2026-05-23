@@ -14,3 +14,5 @@ format: html
 
 [→ Diapositivas](../xaringan/slides-xaringan-presencial-lima-este.html){.btn-hero-primary target="_blank"}
 
+
+[→ Diapositivas](../xaringan/examen-parcial-oral__25.html){.btn-hero-primary target="_blank"}
