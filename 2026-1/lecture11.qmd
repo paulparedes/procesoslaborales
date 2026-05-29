@@ -9,7 +9,7 @@ lang: es
 format: html
 ---
 
-[→ Diapositivas](../xaringan/2026-11-marcs-conciliacion-arbitraje.html){.btn-hero-primary target="_blank"}
+[→ Diapositivas](../xaringan/2026-11-MARCs.html){.btn-hero-primary target="_blank"}
 
 ## Contenidos de la sesión
 
