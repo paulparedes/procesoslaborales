@@ -13,6 +13,8 @@ format: html
 
 [→ Diapositivas](../xaringan/2026-16-PRUEBA-3.html){.btn-hero-primary target="_blank"}
 
+[→ Diapositivas](../xaringan/como-juzgar-hechos-verdad.html){.btn-hero-primary target="_blank"}
+
 ## Contenidos de la sesión
 
 **Unidad IV — Teoría de la prueba y razonamiento probatorio**
