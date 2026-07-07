@@ -15,3 +15,6 @@ format: html
 [→ Diapositivas](../xaringan/slides-xaringan-presencial-lima-este.html){.btn-hero-primary target="_blank"}
 
 [→ Diapositivas](../xaringan/slides-xaringan-presencial-cusco.html){.btn-hero-primary target="_blank"}
+
+[→ Diapositivas](../xaringan/slides-derechos-accesorios-63.html){.btn-hero-primary target="_blank"}
+
