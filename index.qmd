@@ -46,7 +46,6 @@ Posgrado — PUCP y UNMSM · Prof. Paul Paredes
 
 ::: {.course-hero-actions}
 [→ Ver clases 2026-II](lectures-2026-2.qmd){.btn-hero-primary}
-[Cursos anteriores](cursos/2026-1.qmd){.btn-hero-outline}
 :::
 
 :::
@@ -54,7 +53,7 @@ Posgrado — PUCP y UNMSM · Prof. Paul Paredes
 :::{.callout-note}
 ## Semestre 2026-II — Maestría en Derecho Procesal (PUCP)
 
-Esta página agrupa los materiales del curso de Procesos Laborales que el prof. Paul Paredes dicta en la **Maestría en Derecho del Trabajo y de la Seguridad Social (PUCP)** y en las **maestrías en Derecho Procesal de la PUCP y de la UNMSM**. En el semestre **2026-II** el curso se dicta en la **Maestría en Derecho Procesal de la PUCP** (DPR623), en dos módulos. Los semestres anteriores están en el menú *Cursos anteriores*.
+Esta página agrupa los materiales del curso de Procesos Laborales que el prof. Paul Paredes dicta en la **Maestría en Derecho del Trabajo y de la Seguridad Social (PUCP)** y en las **maestrías en Derecho Procesal de la PUCP y de la UNMSM**. En el semestre **2026-II** el curso se dicta en la **Maestría en Derecho Procesal de la PUCP** (DPR623), en dos módulos.
 :::
 
 <!-- Ficha del semestre vigente: al cambiar de semestre basta cambiar esta línea -->

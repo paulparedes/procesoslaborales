@@ -58,20 +58,6 @@ website:
     left:
       - text: "Clases 2026-II"
         href: lectures-2026-2.qmd
-      - text: "Cursos anteriores"
-        menu:
-          - text: "2026-1 · Ficha del curso"
-            href: cursos/2026-1.qmd
-          - text: "2026-1 · Clases"
-            href: lectures-2026-1.qmd
-          - text: "---"
-          - text: "2025-2 · Clases"
-            href: lectures-2025-2.qmd
-          - text: "2025-1 · Clases"
-            href: lectures-2025-1.qmd
-          - text: "---"
-          - text: "Material anterior"
-            href: archivo.qmd
       - text: Prof. Paul Paredes
         href: https://www.paulparedes.pe/about/
         target: _blank
