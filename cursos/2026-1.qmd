@@ -1,0 +1,16 @@
+---
+title: "Procesos Laborales 2026-1"
+subtitle: "Maestría en Derecho del Trabajo y de la Seguridad Social — PUCP (TSS603)"
+description: "Ficha del curso Procesos Laborales del semestre 2026-1 en la Maestría en Derecho del Trabajo y de la Seguridad Social de la PUCP: resultados de aprendizaje, unidades, cronograma y evaluación."
+lang: es
+toc: true
+repo-actions: false
+---
+
+:::{.callout-note}
+## Semestre archivado
+
+Esta ficha corresponde a un semestre concluido y se conserva como referencia. El curso vigente está en la [página de inicio](/index.qmd).
+:::
+
+{{< include _2026-1.qmd >}}

@@ -1,18 +1,23 @@
 [
   {
-    "listing": "/lectures-2025-2.html",
+    "listing": "/lectures-2026-1.html",
     "items": [
-      "/2025-2/lecture1.html",
-      "/2025-2/lecture2.html",
-      "/2025-2/lecture3.html",
-      "/2025-2/lecture4.html",
-      "/2025-2/lecture5.html",
-      "/2025-2/lecture6.html",
-      "/2025-2/lecture7.html",
-      "/2025-2/lecture8.html",
-      "/2025-2/lecture9.html",
-      "/2025-2/lecture10.html",
-      "/2025-2/lecture11.html"
+      "/2026-1/lecture1.html",
+      "/2026-1/lecture2.html",
+      "/2026-1/lecture3.html",
+      "/2026-1/lecture4.html",
+      "/2026-1/lecture5.html",
+      "/2026-1/lecture6.html",
+      "/2026-1/lecture7.html",
+      "/2026-1/lecture8.html",
+      "/2026-1/lecture9.html",
+      "/2026-1/lecture10.html",
+      "/2026-1/lecture11.html",
+      "/2026-1/lecture12.html",
+      "/2026-1/lecture13.html",
+      "/2026-1/lecture14.html",
+      "/2026-1/lecture15.html",
+      "/2026-1/lecture16.html"
     ]
   },
   {
@@ -38,24 +43,19 @@
     ]
   },
   {
-    "listing": "/lectures-2026-1.html",
+    "listing": "/lectures-2025-2.html",
     "items": [
-      "/2026-1/lecture1.html",
-      "/2026-1/lecture2.html",
-      "/2026-1/lecture3.html",
-      "/2026-1/lecture4.html",
-      "/2026-1/lecture5.html",
-      "/2026-1/lecture6.html",
-      "/2026-1/lecture7.html",
-      "/2026-1/lecture8.html",
-      "/2026-1/lecture9.html",
-      "/2026-1/lecture10.html",
-      "/2026-1/lecture11.html",
-      "/2026-1/lecture12.html",
-      "/2026-1/lecture13.html",
-      "/2026-1/lecture14.html",
-      "/2026-1/lecture15.html",
-      "/2026-1/lecture16.html"
+      "/2025-2/lecture1.html",
+      "/2025-2/lecture2.html",
+      "/2025-2/lecture3.html",
+      "/2025-2/lecture4.html",
+      "/2025-2/lecture5.html",
+      "/2025-2/lecture6.html",
+      "/2025-2/lecture7.html",
+      "/2025-2/lecture8.html",
+      "/2025-2/lecture9.html",
+      "/2025-2/lecture10.html",
+      "/2025-2/lecture11.html"
     ]
   }
 ]

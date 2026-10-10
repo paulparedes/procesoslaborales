@@ -10,7 +10,7 @@ project:
 website:
   page-navigation: true
   title: "Procesos laborales"
-  description: "Curso de posgrado sobre procesos laborales, derecho procesal del trabajo, NLPT y razonamiento probatorio. Maestría PUCP y UNMSM. Prof. Paul Paredes."
+  description: "Curso de posgrado sobre procesos laborales, derecho procesal del trabajo, NLPT, oralidad y razonamiento probatorio. Maestrías en Derecho Procesal (PUCP y UNMSM) y en Derecho del Trabajo y de la Seguridad Social (PUCP). Prof. Paul Paredes."
   site-url: "https://procesoslaborales.paulparedes.pe"
   
   repo-url: https://github.com/PaulParedes/procesoslaborales
@@ -19,7 +19,7 @@ website:
   google-analytics: "G-JW93WF08Z3"
   
   open-graph:
-    description: "Curso de posgrado sobre procesos laborales y derecho procesal del trabajo. Maestría PUCP y UNMSM. Prof. Paul Paredes."
+    description: "Curso de posgrado sobre procesos laborales y derecho procesal del trabajo. Semestre 2026-II: Maestría en Derecho Procesal de la PUCP. Prof. Paul Paredes."
     image: "/images/pgpp.png"
   twitter-card:
     creator: "@Paul_Paredes"
@@ -41,7 +41,12 @@ website:
       - icon: download
         text: Descargas
         menu: 
-          - text: Lecturas
+          - text: "Lecturas 2026-II · Módulo I"
+            href: https://drive.google.com/drive/folders/131YgV2kA9oV1jwucJM3VsTXRQW9xZmEq?usp=sharing
+          - text: "Lecturas 2026-II · Módulo II"
+            href: https://drive.google.com/drive/folders/1BTA4KV547pIfj_Gycw8zq9x1cUJNdqkW?usp=sharing
+          - text: "---"
+          - text: Lecturas (semestres anteriores)
             href: https://drive.google.com/drive/folders/1UwVw1l5sVBRwnDWxuvzW9xHHWD4SpN-I?usp=sharing
           - text: Lecturas sugeridas
             href: https://drive.google.com/drive/folders/1e5nps7s3OpeyqWHWVG6szxk_6XNa7cbd?usp=sharing
@@ -51,8 +56,22 @@ website:
         href: https://github.com/PaulParedes/procesoslaborales
         text: GitHub
     left:
-      - text: "Clases 2026-1"
-        href: lectures-2026-1.qmd
+      - text: "Clases 2026-II"
+        href: lectures-2026-2.qmd
+      - text: "Cursos anteriores"
+        menu:
+          - text: "2026-1 · Ficha del curso"
+            href: cursos/2026-1.qmd
+          - text: "2026-1 · Clases"
+            href: lectures-2026-1.qmd
+          - text: "---"
+          - text: "2025-2 · Clases"
+            href: lectures-2025-2.qmd
+          - text: "2025-1 · Clases"
+            href: lectures-2025-1.qmd
+          - text: "---"
+          - text: "Material anterior"
+            href: archivo.qmd
       - text: Prof. Paul Paredes
         href: https://www.paulparedes.pe/about/
         target: _blank

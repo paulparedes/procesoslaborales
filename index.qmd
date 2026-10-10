@@ -1,7 +1,7 @@
 ---
 title: "Procesos Laborales"
-description: "Curso de posgrado que dicta el prof. Paul Paredes sobre el proceso laboral peruano en las maestrías en Derecho del Trabajo y Seguridad Social de la PUCP y en Derecho Procesal de la UNMSM (Lima, 2026)."
-keywords: "procesos laborales, derecho procesal del trabajo, NLPT, nueva ley procesal del trabajo, razonamiento probatorio, PUCP, UNMSM, maestría, Paul Paredes"
+description: "Curso de posgrado sobre el proceso laboral peruano que dicta el prof. Paul Paredes en la Maestría en Derecho del Trabajo y de la Seguridad Social de la PUCP y en las maestrías en Derecho Procesal de la PUCP y de la UNMSM. Semestre 2026-II: Derecho Procesal Laboral (DPR623), Maestría en Derecho Procesal de la PUCP."
+keywords: "procesos laborales, derecho procesal laboral, derecho procesal del trabajo, NLPT, nueva ley procesal del trabajo, oralidad, audiencias, razonamiento probatorio, DPR623, PUCP, UNMSM, maestría en derecho procesal, Paul Paredes"
 lang: es
 page-layout: full
 toc: false
@@ -14,7 +14,8 @@ repo-actions: false
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "Procesos Laborales",
-  "description": "Curso de posgrado sobre procesos laborales, derecho procesal del trabajo, NLPT y razonamiento probatorio. Maestría en Derecho del Trabajo y Seguridad Social (PUCP) y Maestría en Derecho Procesal (UNMSM).",
+  "description": "Curso de posgrado sobre procesos laborales, derecho procesal del trabajo, NLPT, oralidad y razonamiento probatorio. Semestre 2026-II: Derecho Procesal Laboral (DPR623), Maestría en Derecho Procesal de la PUCP, módulos Principios, objeto y sujetos y Oralidad y audiencias en el proceso laboral.",
+  "courseCode": "DPR623",
   "provider": {
     "@type": "Organization",
     "name": "Pontificia Universidad Católica del Perú",
@@ -29,7 +30,7 @@ repo-actions: false
   "url": "https://procesoslaborales.paulparedes.pe",
   "inLanguage": "es",
   "educationalLevel": "Posgrado",
-  "teaches": "Derecho procesal del trabajo, NLPT, razonamiento probatorio, teoría del caso"
+  "teaches": "Derecho procesal del trabajo, NLPT, oralidad y audiencias, razonamiento probatorio, teoría del caso"
 }
 </script>
 
@@ -43,133 +44,22 @@ repo-actions: false
 
 Posgrado — PUCP y UNMSM · Prof. Paul Paredes
 
-::: {.course-meta-badges}
-[3 créditos]{.course-meta-badge}
-[Lunes 19–22 h]{.course-meta-badge}
-[2026-1]{.course-meta-badge}
-[Presencial · Lima]{.course-meta-badge}
-:::
-
 ::: {.course-hero-actions}
-[→ Ver clases 2026-1](lectures-2026-1.qmd){.btn-hero-primary}
-[↓ Sílabo PDF](pdf/TSS603-2026-1-Silabo-Procesos-Laborales.pdf){.btn-hero-outline}
+[→ Ver clases 2026-II](lectures-2026-2.qmd){.btn-hero-primary}
+[Cursos anteriores](cursos/2026-1.qmd){.btn-hero-outline}
 :::
 
 :::
-
----
-
-## Sobre el curso
-
-Este módulo especializado aborda los **fundamentos del derecho procesal laboral peruano** en toda su extensión: desde los principios que informan el proceso laboral y los poderes de los jueces, hasta los mecanismos alternativos de resolución de conflictos, la negociación colectiva y el razonamiento probatorio. El curso examina la regulación contenida en la **Nueva Ley Procesal del Trabajo (NLPT, Ley 29497)** y su aplicación práctica en el sistema de justicia laboral peruano.
 
 :::{.callout-note}
-## Curso de Procesos Laborales — PUCP y UNMSM
+## Semestre 2026-II — Maestría en Derecho Procesal (PUCP)
 
-Esta página agrupa los materiales del curso de Procesos Laborales que el prof. Paul Paredes dicta en la **Maestría en Derecho del Trabajo y Seguridad Social (PUCP)** y en la **Maestría en Derecho Procesal (UNMSM)**. El contenido principal de esta página corresponde al semestre **2026-1 en la PUCP**.
+Esta página agrupa los materiales del curso de Procesos Laborales que el prof. Paul Paredes dicta en la **Maestría en Derecho del Trabajo y de la Seguridad Social (PUCP)** y en las **maestrías en Derecho Procesal de la PUCP y de la UNMSM**. En el semestre **2026-II** el curso se dicta en la **Maestría en Derecho Procesal de la PUCP** (DPR623), en dos módulos. Los semestres anteriores están en el menú *Cursos anteriores*.
 :::
 
----
+<!-- Ficha del semestre vigente: al cambiar de semestre basta cambiar esta línea -->
 
-## Resultados de aprendizaje
-
-::: {.ra-grid}
-
-::: {.ra-card}
-**RA1** — Comprende y analiza los principios fundamentales que informan el proceso laboral peruano y su aplicación práctica en la NLPT.
-:::
-
-::: {.ra-card}
-**RA2** — Identifica las pretensiones deducibles y la competencia material de los juzgados laborales, distinguiendo los distintos tipos de proceso.
-:::
-
-::: {.ra-card}
-**RA3** — Examina la estructura de los actos procesales, los medios impugnatorios y el recurso de casación laboral.
-:::
-
-::: {.ra-card}
-**RA4** — Comprende los mecanismos alternativos de resolución de conflictos laborales (conciliación y arbitraje) y la solución de conflictos colectivos.
-:::
-
-::: {.ra-card}
-**RA5** — Analiza la participación de los sindicatos en el proceso laboral y la tutela de la libertad sindical.
-:::
-
-::: {.ra-card}
-**RA6** — Aplica la teoría de la prueba y el razonamiento probatorio en la preparación y presentación del caso laboral.
-:::
-
-:::
-
----
-
-## Unidades del curso
-
-::: {.unit-grid}
-
-::: {.unit-card}
-#### Unidad I: Fundamentos y pretensiones
-
-Reforma de los procesos laborales en América Latina · Principios del proceso laboral · Poderes de los jueces · Pretensiones en la justicia laboral
-:::
-
-::: {.unit-card}
-#### Unidad II: Tipos de proceso, actos e impugnatorios
-
-Proceso ordinario y abreviado laboral · Otros tipos de proceso · Actos procesales: demanda, contestación y sentencia · Medios impugnatorios · Casación laboral
-:::
-
-::: {.unit-card}
-#### Unidad III: MARC, conflictos colectivos y sindicatos
-
-Conciliación y arbitraje laboral · Solución de conflictos económicos · Negociación colectiva · Participación de los sindicatos en el proceso
-:::
-
-::: {.unit-card}
-#### Unidad IV: Prueba y razonamiento probatorio
-
-Teoría de la prueba en el proceso laboral · Carga de la prueba e inversiones · Razonamiento probatorio · Presunciones · Teoría del caso
-:::
-
-:::
-
----
-
-## Cronograma 2026-1
-
-| Sesión | Fecha | Tema | Evaluación |
-|:------:|:------|:-----|:----------:|
-| 1 | 23 mar | La reforma de los procesos laborales en América Latina | |
-| 2 | 30 mar | Principios y fundamentos del proceso laboral | |
-| 3 | 6 abr | Poderes de los jueces | |
-| 4 | 13 abr | Pretensiones en la justicia laboral | |
-| 5 | 20 abr | Tipos de procesos (netamente) laborales | |
-| 6 | 27 abr | Otros tipos de proceso | |
-| 7 | 4 may | Los actos procesales: demanda, contestación y sentencia | |
-| 8 | 11 may | Medios impugnatorios | |
-| 9 | 18 may | Casación laboral | |
-| 10 | 25 may | **Examen parcial** | EP (25%) |
-| 11 | 1 jun | Conciliación y arbitraje | |
-| 12 | 8 jun | Solución de conflictos económicos | |
-| 13 | 15 jun | Participación de los sindicatos | |
-| 14 | 22 jun | Teoría de la prueba | |
-| 15 | 3 jul | Razonamiento probatorio y Teoría del caso | |
-| 16 | 6 jul | **Examen final** | EF (35%) |
-
----
-
-## Evaluación
-
-| Componente | Descripción | Peso |
-|:-----------|:------------|:----:|
-| Participación | Intervenciones en clase y lecturas | 15% |
-| Trabajo académico | Análisis jurisprudencial escrito | 25% |
-| Examen parcial | Escrito — clases 1–9 | 25% |
-| Examen final | Escrito integrador | 35% |
-
-**Fórmula:** NF = (Part. × 0.15) + (TA × 0.25) + (EP × 0.25) + (EF × 0.35)
-
-**Nota mínima aprobatoria:** 11 (escala vigesimal)
+{{< include cursos/_2026-2.qmd >}}
 
 ---
 
@@ -177,7 +67,7 @@ Teoría de la prueba en el proceso laboral · Carga de la prueba e inversiones �
 
 ![](images/pgpp.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot de Paul Paredes" width="200"}
 
-[**Mg. Paul Paredes**](https://paulparedes.pe/) es abogado litigante en causas de trabajadores y sindicatos. Asimismo, es profesor de derecho procesal del trabajo en las maestrías de Derecho del Trabajo y de la Seguridad Social en la Universidad Nacional Mayor de San Marcos y la Pontificia Universidad Católica del Perú. Es miembro de la Red Latinoamericana de Epistemología Jurídica promovida por la Universidad de los Andes, Colombia. Paul cuenta con tres maestrías. Es maestro en Política Jurisdiccional por la PUCP (Lima, 2006); máster en Argumentación Jurídica por las universidades de Alicante y Palermo (España, Italia 2016); y máster en Razonamiento Probatorio por las universidades de Girona y Génova (España, Italia 2019). Es autor del libro *Prueba y presunciones en el proceso laboral* (ARA editores, Lima, 1997). Ha publicado el texto "El principio de facilitación probatoria en el proceso laboral" dentro de la obra colectiva *Del derecho al razonamiento probatorio* (Marcial Pons, Madrid, 2020), así como el artículo "El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral" en la investigación colectiva *Ciencia y justicia* (Centro de Estudios Constitucionales, México, 2021). Su línea de investigación es el proceso laboral, la teoría de la prueba y el razonamiento probatorio.
+[**Mg. Paul Paredes**](https://paulparedes.pe/) es abogado litigante en causas de trabajadores y sindicatos. Asimismo, es profesor de derecho procesal del trabajo en la Maestría en Derecho del Trabajo y de la Seguridad Social de la Pontificia Universidad Católica del Perú y en las maestrías en Derecho Procesal de la Pontificia Universidad Católica del Perú y de la Universidad Nacional Mayor de San Marcos. Es miembro de la Red Latinoamericana de Epistemología Jurídica promovida por la Universidad de los Andes, Colombia. Paul cuenta con tres maestrías. Es maestro en Política Jurisdiccional por la PUCP (Lima, 2006); máster en Argumentación Jurídica por las universidades de Alicante y Palermo (España, Italia 2016); y máster en Razonamiento Probatorio por las universidades de Girona y Génova (España, Italia 2019). Es autor del libro *Prueba y presunciones en el proceso laboral* (ARA editores, Lima, 1997). Ha publicado el texto "El principio de facilitación probatoria en el proceso laboral" dentro de la obra colectiva *Del derecho al razonamiento probatorio* (Marcial Pons, Madrid, 2020), así como el artículo "El uso de la prueba científica por parte de la Suprema Corte de Justicia de la Nación en materia laboral" en la investigación colectiva *Ciencia y justicia* (Centro de Estudios Constitucionales, México, 2021). Su línea de investigación es el proceso laboral, la teoría de la prueba y el razonamiento probatorio.
 
 <div align="center">
 <a href="https://www.paulparedes.pe/"><img border="0" alt="Blog" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="35" height="35"></a>&ensp;

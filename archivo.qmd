@@ -9,7 +9,7 @@ toc: true
 
 ::: {.callout-note}
 ## Repositorio histórico
-Esta sección contiene todo el material académico de períodos anteriores del curso "Procesos laborales". Para el curso actual, consulta [**Clases 2025-2**](lectures-2025-2.qmd).
+Esta sección contiene todo el material académico de períodos anteriores del curso "Procesos laborales". Para el curso actual, consulta [**Clases 2026-II**](lectures-2026-2.qmd).
 :::
 
 # Material por períodos académicos

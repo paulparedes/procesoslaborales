@@ -1,0 +1,124 @@
+<!-- Ficha del semestre 2026-II (DPR623, Maestría en Derecho Procesal, PUCP). Parcial sin
+     YAML: se incluye desde index.qmd (mientras sea el semestre vigente) y desde
+     cursos/2026-2.qmd. Los enlaces van desde la raíz (/...) para que funcionen en ambos. -->
+
+::: {.course-meta-badges}
+[2026-II]{.course-meta-badge}
+[DPR623]{.course-meta-badge}
+[Maestría en Derecho Procesal · PUCP]{.course-meta-badge}
+[3 créditos]{.course-meta-badge}
+[Martes y jueves 19–22 h]{.course-meta-badge}
+[Presencial · Lima]{.course-meta-badge}
+:::
+
+::: {.course-hero-actions}
+[→ Ver clases 2026-II](/lectures-2026-2.qmd){.btn-hero-primary}
+[↓ Sílabo Módulo I](/pdf/Paredes-silabo-principios-dpr623-2026.pdf){.btn-hero-primary}
+[↓ Sílabo Módulo II](/pdf/Paredes-silabo-oralidad-dpr623-2026.pdf){.btn-hero-primary}
+:::
+
+## Sobre el curso
+
+En el semestre 2026-II el curso **Derecho Procesal Laboral (DPR623)** de la Maestría en Derecho Procesal de la PUCP se dicta en módulos. El prof. Paul Paredes tiene a su cargo los dos primeros: el primero estudia los **principios, el objeto y los sujetos** del proceso laboral; el segundo estudia el proceso laboral en movimiento, con la **oralidad y las audiencias** como eje. Ambos examinan la regulación contenida en la **Nueva Ley Procesal del Trabajo (NLPT, Ley 29497)** y su aplicación práctica en el sistema de justicia laboral peruano.
+
+## Módulos
+
+::: {.unit-grid}
+
+::: {.unit-card}
+#### Módulo I: Principios, objeto y sujetos
+
+Del 13 al 29 de octubre · 6 sesiones
+
+Reforma de los procesos laborales en América Latina · Principios y fundamentos · Pretensiones y competencia (Ley 32155) · Poderes de los jueces · Casación laboral · Actos procesales · Conciliación y arbitraje · Sindicatos y procesos colectivos
+
+[Sílabo](/pdf/Paredes-silabo-principios-dpr623-2026.pdf) · [Lecturas en Drive](https://drive.google.com/drive/folders/131YgV2kA9oV1jwucJM3VsTXRQW9xZmEq?usp=sharing){target="_blank"}
+:::
+
+::: {.unit-card}
+#### Módulo II: Oralidad y audiencias en el proceso laboral
+
+Del 3 al 14 de noviembre · 5 sesiones
+
+La oralidad como eje del proceso · Tipos de procesos y estructura de audiencias · Contencioso administrativo laboral y amparo · Actos procesales en clave oral · Actuación probatoria y presunciones · Razonamiento probatorio y teoría del caso
+
+[Sílabo](/pdf/Paredes-silabo-oralidad-dpr623-2026.pdf) · [Lecturas en Drive](https://drive.google.com/drive/folders/1BTA4KV547pIfj_Gycw8zq9x1cUJNdqkW?usp=sharing){target="_blank"}
+:::
+
+:::
+
+## Resultados de aprendizaje
+
+### Módulo I
+
+::: {.ra-grid}
+
+::: {.ra-card}
+**RA1** — Comprende y analiza los principios fundamentales que informan el proceso laboral peruano y su aplicación práctica en la Nueva Ley Procesal del Trabajo.
+:::
+
+::: {.ra-card}
+**RA2** — Identifica y caracteriza el objeto del proceso laboral, incluyendo las pretensiones deducibles y la competencia material de los juzgados laborales.
+:::
+
+::: {.ra-card}
+**RA3** — Examina la configuración de los sujetos procesales en el ámbito laboral, con especial atención a las particularidades de la representación procesal y la intervención de terceros.
+:::
+
+::: {.ra-card}
+**RA4** — Evalúa críticamente el rol de los jueces laborales y sus poderes específicos en el marco del proceso laboral peruano.
+:::
+
+:::
+
+### Módulo II
+
+::: {.ra-grid}
+
+::: {.ra-card}
+**RA1** — Comprende la oralidad como eje del proceso laboral peruano y su función en el acceso a la justicia, más allá de su dimensión formal.
+:::
+
+::: {.ra-card}
+**RA2** — Identifica y caracteriza los tipos de procesos en la NLPT y los procesos no netamente laborales, así como la estructura de las audiencias.
+:::
+
+::: {.ra-card}
+**RA3** — Analiza los actos procesales —demanda, contestación, audiencia y sentencia— en clave oral, y el papel de la conciliación intraproceso.
+:::
+
+::: {.ra-card}
+**RA4** — Examina la actuación probatoria en la audiencia de juzgamiento y las bases del razonamiento probatorio y de la teoría del caso.
+:::
+
+:::
+
+## Cronograma 2026-II
+
+El detalle por sesión, con presentaciones y lecturas, está en [Clases 2026-II](/lectures-2026-2.qmd).
+
+| Módulo | Sesión | Fecha | Tema |
+|:------:|:------:|:------|:-----|
+| I | 1 | mar 13 oct | La reforma de los procesos laborales en América Latina · Principios (y fundamentos) del proceso laboral |
+| I | 2 | jue 15 oct | Pretensiones en la justicia laboral |
+| I | 3 | mar 20 oct | Poderes de los jueces · La casación laboral (exposición grupal) |
+| I | 4 | jue 22 oct | Los actos procesales · Conciliación y arbitraje |
+| I | 5 | mar 27 oct | Participación de los sindicatos · Los procesos colectivos |
+| I | 6 | jue 29 oct | Exposición de tema libre · **Examen final** |
+| II | 1 | mar 3 nov | La oralidad como eje del proceso · Tipos de procesos y estructura de audiencias |
+| II | 2 | jue 5 nov | Otros procesos: contencioso administrativo laboral y acción de amparo |
+| II | 3 | mar 10 nov | Los actos procesales en clave oral · La conciliación (exposición grupal) |
+| II | 4 | jue 12 nov | La actuación probatoria en la audiencia de juzgamiento · Teoría de la prueba (parte 1) |
+| II | 5 | sáb 14 nov (15–18 h) | Razonamiento probatorio y teoría del caso (parte 2) · **Examen del módulo** |
+
+## Evaluación
+
+Cada módulo se evalúa por separado y con los mismos componentes:
+
+| Componente | Peso |
+|:-----------|:----:|
+| Asistencia y participación | 30% |
+| Exposición grupal | 35% |
+| Examen final | 35% |
+
+La nota de asistencia y participación es el promedio de las notas de cada clase (6 en el Módulo I y 5 en el Módulo II). La exposición grupal se realiza en la sesión 3 de cada módulo: sobre casación en el Módulo I y sobre actos procesales en el Módulo II. En el Módulo I el examen final incluye la exposición grupal de un tema libre. El examen de cada módulo se rinde en la segunda parte de su última sesión y puede ser oral o escrito.

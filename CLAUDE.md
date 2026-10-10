@@ -17,14 +17,16 @@ quarto render index.qmd
 
 ## Project architecture
 
-This is a **Quarto website** (`_quarto.yml`, `project.type: website`) for the course *Procesos Laborales* taught by Paul Paredes at PUCP and UNMSM graduate programs.
+This is a **Quarto website** (`_quarto.yml`, `project.type: website`) for the course *Procesos Laborales* taught by Paul Paredes in the Maestría en Derecho del Trabajo y de la Seguridad Social (PUCP) and the Maestrías en Derecho Procesal (PUCP and UNMSM). Not every programme runs every semester (2026-II: only Derecho Procesal PUCP, DPR623, two modules).
 
 ### Key files
 
 | File | Role |
 |------|------|
 | `_quarto.yml` | Global config: navbar, fonts, SEO, footer, Google Analytics |
-| `index.qmd` | Homepage — hero section, RA grid, unit cards, schedule table, professor bio |
+| `index.qmd` | Homepage — generic hero, note, `{{< include cursos/_YYYY-S.qmd >}}` of the current semester, professor bio |
+| `cursos/_YYYY-S.qmd` | Semester sheet (partial, **no YAML**, root-absolute links `/...`): badges, RA, units/modules, schedule, evaluation |
+| `cursos/YYYY-S.qmd` | Thin page (front matter only) that includes the partial; permanent URL of the sheet |
 | `paulparedes-quarto.scss` | All custom styles; defines the full design system |
 | `lectures-YYYY-S.qmd` | Listing page (grid) for each semester's lectures |
 | `archivo.qmd` | Historical archive — **do not delete** |
@@ -71,10 +73,11 @@ Custom component classes: `.course-hero`, `.course-meta-badge`, `.unit-card`, `.
 
 ### Adding a new semester
 
-1. Create `YYYY-S/` folder with `lectureN.qmd` files
-2. Create `lectures-YYYY-S.qmd` (copy existing listing page)
-3. Update `_quarto.yml` navbar: move current semester to "Archivo" dropdown, add new semester as primary left nav item
-4. Update `index.qmd`: hero badge year, callout text, cronograma table, evaluación
+1. Create `cursos/_YYYY-S.qmd` (partial) and `cursos/YYYY-S.qmd` (wrapper; copy `cursos/2026-2.qmd`)
+2. Create `lectures-YYYY-S.qmd`: either a listing over `YYYY-S/lecture*.qmd` (template `lectures-2026-1.qmd`) or per-module session tables (template `lectures-2026-2.qmd`)
+3. Update `index.qmd`: change the `{{< include cursos/_YYYY-S.qmd >}}` line, hero button, callout text, description/keywords and JSON-LD
+4. Update `_quarto.yml` navbar: new semester as primary left item; move the previous one (sheet + classes) into the "Cursos anteriores" menu; update the "Descargas" Drive links
+5. Never rename or delete existing `lectures-*.qmd`, `YYYY-S/` folders or `cursos/*.qmd` — their URLs must keep working
 
 ### SEO / metadata
 
@@ -82,7 +85,7 @@ Custom component classes: `.course-hero`, `.course-meta-badge`, `.unit-card`, `.
 
 ### Deployment
 
-The site deploys automatically via **Netlify** on push to `main`. The rendered output goes to `_site/` (not committed). The canonical URL is `https://procesoslaborales.paulparedes.pe`.
+The site deploys via **Netlify** on push to `main`. There is no build config in the repo: the rendered output in `_site/` **is committed**, so run `quarto render` and commit `_site/` together with the sources. The canonical URL is `https://procesoslaborales.paulparedes.pe`.
 
 ### Logo (`images/logo.png`)
 
