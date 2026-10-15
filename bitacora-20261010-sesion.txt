@@ -1,0 +1,217 @@
+ ▐▛███▛█   Claude Code v2.1.296
+▝▜██████▀  Opus 5.5 · Claude Pro
+ ▝▝   ▝▝   ~/SHAREP9/CURSO_PROCESOS_LABORALES
+
+
+❯ Ya subí a la carpeta "xaringan" todas las nuevas presentaciones con el nombre 
+  2026-2-m1-01-reforma.html y así todos según el tema de cada sesión. Hay       
+  sesiones que tienen 2 temas. De otro lado, en el caso las sesiones 4 y 5 del  
+  módulo 2, en cada una van 2 presentaciones, las que terminan en PRUEBA-1 y    
+  PRUEBA-2 para la sesión 4 y las otras 2 para la sesión 5. Tienes que cambiar  
+  los enlaces en "lectures-2026-2.qmd" y quitar las marcas. Además de eso, te   
+  pido ya no esté el enlace a las clases anteriores, aunque yo personalmente    
+  (que conozco el nombre de las presentaciones anteriores) pueda acceder        
+  "manualmente" escribiendo en la barra de dirección la dirección de la         
+  dispositiva. Una vez que hayas hecho las modificaciones señaladas, me avisas  
+  para hacer yo hacer un preview y luego hacemos el push para la publicación.   
+
+  Read 2 files, listed 1 directory (ctrl+o to expand)
+
+● Bash(for f in xaringan/2026-2-*.html; do printf '%s | ' "$f"; grep -o -m1
+      '<title>[^<]*' "$f" | head -1; done; echo ---; sed -n 40,60p index.qmd;
+      echo ---; grep -n "…)
+  ⎿  xaringan/2026-2-m1-01-reforma.html | <title>La reforma de los procesos
+      laborales en América Latina
+     xaringan/2026-2-m1-02-principios.html | <title>Principios del proceso
+     … +38 lines (ctrl+o to expand)
+
+● User answered Claude's questions:
+  ⎿  · ¿Qué alcance tiene «quitar el enlace a las clases anteriores»? → Todo el 
+     menú (Recomendado)
+     · Módulo I, sesión 5: el tema 8 figura como «Participación de los 
+     sindicatos», pero la nueva presentación es «Solución de los conflictos 
+     económicos» (2026-2-m1-08-conflictos-economicos.html). ¿Qué hago con el 
+     título del tema? → Solo cambiar el enlace
+
+● Updated plan
+  ⎿  /plan to preview
+
+● User approved Claude's plan
+  ⎿  Plan saved to: ~/.claude/plans/ya-sub-a-la-zazzy-scroll.md · /plan to edit
+     Plan: presentaciones 2026-II y retiro del acceso a cursos anteriores
+
+     Contexto
+
+     Las 16 presentaciones nuevas del 2026-II ya están en xaringan/
+     (2026-2-m1-*.html, 2026-2-m2-*.html, sin versionar todavía).
+     lectures-2026-2.qmd aún enlaza de forma provisional a las de 2025 y 2026-1,
+     con las marcas (2025) / (2026-1). Además, el sitio no debe ofrecer
+     navegación hacia las clases de semestres anteriores; las páginas y
+     diapositivas antiguas se conservan y siguen abriendo por URL directa.
+
+     Decisiones confirmadas:
+     - Se quita todo el menú «Cursos anteriores» y el botón de la portada. El
+       enlace de Drive «Lecturas (semestres anteriores)» en «Descargas» se
+       queda.
+     - Módulo I, sesión 5: el tema sigue como «8. Participación de los
+       sindicatos»; solo cambia el enlace, rotulado «Conflictos económicos».
+
+     Cambios
+
+     1. lectures-2026-2.qmd
+
+     - Nota inicial (línea 17): reemplazar el texto por uno sin referencia a
+       ediciones anteriores, p. ej.: «Cada sesión enlaza su presentación. Las
+       lecturas de cada módulo están en su carpeta de Drive.»
+     - Columna «Presentación», sin marcas y con los nuevos archivos (todos
+       {target="_blank"}):
+
+     ┌─────────┬───────────────────────────────────────────────────────────────┐
+     │ Módulo  │                                                               │
+     │   ·     │                            Enlaces                            │
+     │ Sesión  │                                                               │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M1 · 1  │ Reforma → xaringan/2026-2-m1-01-reforma.html; Principios →    │
+     │         │ 2026-2-m1-02-principios.html                                  │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M1 · 2  │ Pretensiones y competencia →                                  │
+     │         │ 2026-2-m1-03-pretensiones-competencia.html                    │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M1 · 3  │ Poderes de los jueces → 2026-2-m1-04-poderes-jueces.html;     │
+     │         │ Casación → 2026-2-m1-05-casacion-laboral.html                 │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M1 · 4  │ Actos procesales → 2026-2-m1-06-actos-procesales.html; MARC → │
+     │         │  2026-2-m1-07-MARCs.html                                      │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │         │ Conflictos económicos →                                       │
+     │ M1 · 5  │ 2026-2-m1-08-conflictos-economicos.html; Procesos colectivos  │
+     │         │ → 2026-2-m1-09-procesos-colectivos.html                       │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M1 · 6  │ — (sin cambios)                                               │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M2 · 1  │ Tipos de procesos →                                           │
+     │         │ 2026-2-m2-01-tipos-de-procesos-laborales.html                 │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M2 · 2  │ Contencioso administrativo y amparo →                         │
+     │         │ 2026-2-m2-02-procesos-laborales-no-nlpt.html                  │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M2 · 3  │ Actos procesales → 2026-2-m2-03-actos-procesales.html         │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M2 · 4  │ Prueba 1 → 2026-2-m2-04-PRUEBA-1.html; Prueba 2 →             │
+     │         │ 2026-2-m2-04-PRUEBA-2.html                                    │
+     ├─────────┼───────────────────────────────────────────────────────────────┤
+     │ M2 · 5  │ Prueba 3 → 2026-2-m2-05-PRUEBA-3.html; Prueba 4 →             │
+     │         │ 2026-2-m2-05-PRUEBA-4.html                                    │
+     └─────────┴───────────────────────────────────────────────────────────────┘
+
+     Los nombres respetan mayúsculas/minúsculas exactas (Netlify distingue:
+     MARCs, PRUEBA).
+
+     2. _quarto.yml
+
+     Eliminar del navbar.left el bloque «Cursos anteriores» completo (líneas
+     61-74). Quedan «Clases 2026-II» y «Prof. Paul Paredes».
+
+     3. index.qmd
+
+     - Quitar el botón [Cursos anteriores](cursos/2026-1.qmd){.btn-hero-outline}
+       (línea 49).
+     - Quitar la frase final del callout: «Los semestres anteriores están en el
+       menú Cursos anteriores.» (línea 57).
+
+     No se toca
+
+     - lectures-2026-1.qmd, lectures-2025-*.qmd, cursos/2026-1.qmd, archivo.qmd,
+       carpetas YYYY-S/ y diapositivas antiguas de xaringan/: se siguen
+       renderizando y sus URLs funcionan, solo dejan de estar enlazadas desde el
+       menú y la portada.
+     - bitacora-20261009-sesion.txt (sin versionar): no se incluye en el commit.
+
+     Verificación
+
+     1. quarto render (regenera _site/, que va versionado).
+     2. Comprobar que los 16 href de _site/lectures-2026-2.html apuntan a
+        archivos existentes en _site/xaringan/ y que no queda ningún 2025-mdp ni
+        (2025) / (2026-1).
+     3. Comprobar que _site/index.html y el navbar no contienen «Cursos
+        anteriores», y que _site/lectures-2026-1.html sigue existiendo.
+     4. Aviso al usuario para que haga su quarto preview.
+     5. Solo tras su visto bueno: commit (fuentes + 16 presentaciones + _site/)
+        y push a main.
+
+● Bash(python3 - <<'EOF'
+      import re,io…)
+  ⎿   _quarto.yml         | 14 --------------
+      index.qmd           |  3 +--
+      lectures-2026-2.qmd | 22 +++++++++++-----------
+     … +13 lines (ctrl+o to expand)
+
+● Bash(quarto render 2>&1 | tail -5; echo ---; grep -o 'href="xaringan/[^"]*"'
+      _site/lectures-2026-2.html | sort -u | sed 's/href="//;s/"//' | while read
+      f; do [ -f "_…)
+  ⎿  [53/54] lectures-2026-2.qmd
+     [54/54] license.qmd
+     … +46 lines (ctrl+o to expand)
+  ⎿  (timeout 10m)
+
+● Listo, ya puedes hacer el quarto preview. El sitio se renderizó sin errores y
+  los 16 enlaces de «Clases 2026-II» apuntan a archivos que existen en
+  _site/xaringan/.
+
+  - Presentaciones (lectures-2026-2.qmd): todas las sesiones enlazan a las
+    nuevas 2026-2-m1-* y 2026-2-m2-*, sin las marcas (2025) / (2026-1).
+    - Módulo II, sesión 4: Prueba 1 y Prueba 2.
+    - Módulo II, sesión 5: Prueba 3 y Prueba 4.
+    - Módulo I, sesión 5: el tema sigue como «8. Participación de los
+      sindicatos» y el enlace dice «Conflictos económicos».
+  - Nota inicial de esa página: ahora dice «Cada sesión enlaza su presentación.
+    Las lecturas de cada módulo están en su carpeta de Drive.»
+  - Menú (_quarto.yml): quité «Cursos anteriores» completo; quedan «Clases
+    2026-II» y «Prof. Paul Paredes».
+  - Portada (index.qmd): quité el botón «Cursos anteriores» y la frase que
+    remitía a ese menú.
+
+  Las páginas y diapositivas antiguas siguen existiendo y abren escribiendo la
+  URL (por ejemplo /lectures-2026-1.html o
+  /xaringan/2025-mdp-01-reforma_procesos_latam.html); solo dejaron de estar
+  enlazadas desde el menú y la portada.
+
+  En «Descargas» se mantiene el enlace de Drive «Lecturas (semestres
+  anteriores)», como acordamos.
+
+  Cuando des el visto bueno hago el commit (fuentes, las 16 presentaciones y
+  _site/) y el push a main. Dejaré fuera bitacora-20261009-sesion.txt.
+
+✻ Worked for 1m 28s · done 2:26 p. m.
+
+※ recap: Actualicé el sitio al 2026-II: las sesiones enlazan las 16 presentaciones nuevas y ya no hay menú ni botón de cursos anteriores; todo está renderizado sin errores. Falta que hagas tu preview y me confirmes para hacer commit y push. (disable recaps in /config)
+
+❯ Perfecto. Procede.                                                            
+
+● Bash(git fetch origin 2>&1 | tail -2; git rev-list --count main..origin/main;
+      git add _quarto.yml index.qmd lectures-2026-2.qmd xaringan/2026-2-*.html
+      _site && git s…)
+  ⎿  0
+     M  _quarto.yml
+     M  index.qmd
+     … +19 lines (ctrl+o to expand)
+
+● Bash(git commit -q -m "Clases 2026-II: presentaciones nuevas y retiro del menú
+      de cursos anteriores…)
+  ⎿  remote:   https://github.com/paulparedes/procesoslaborales.git
+     To https://github.com/PaulParedes/procesoslaborales.git
+        905502f..4c1876f  main -> main
+     … +4 lines (ctrl+o to expand)
+
+● Hecho: el commit 4c1876f está en main y subido a GitHub (905502f..4c1876f),
+  con las fuentes, las 16 presentaciones nuevas y _site/ regenerado.
+
+  No verifiqué el sitio en vivo. Netlify debería desplegarlo en uno o dos
+  minutos; conviene que abras https://procesoslaborales.paulparedes.pe y revises
+  que el menú ya no muestre «Cursos anteriores» y que en «Clases 2026-II» abra
+  alguna presentación, por ejemplo la de MARC, que es la que tiene mayúsculas en
+  el nombre.
+
+  bitacora-20261009-sesion.txt quedó fuera del commit, sin versionar.
+
+✻ Churned for 18s · done 2:30 p. m.

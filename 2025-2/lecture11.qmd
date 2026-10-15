@@ -18,3 +18,4 @@ format: html
 
 [→ Diapositivas](../xaringan/slides-derechos-accesorios-63.html){.btn-hero-primary target="_blank"}
 
+[→ Diapositivas](../xaringan/mapa-clase-01.html){.btn-hero-primary target="_blank"}
