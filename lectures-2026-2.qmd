@@ -52,6 +52,14 @@ Martes y jueves, 19:00–22:00 h; sábado 14, 15:00–18:00 h · del 3 al 14 de 
 | 4 | jue 12 nov | **4. La actuación probatoria en la audiencia de juzgamiento. Teoría de la prueba (parte 1)** | [Prueba 1](xaringan/2026-2-m2-04-PRUEBA-1.html){target="_blank"}<br>[Prueba 2](xaringan/2026-2-m2-04-PRUEBA-2.html){target="_blank"} | Paredes, *Prueba y presunciones en el proceso laboral*<br>Aguiló, *Presunciones, verdad y normas procesales*<br>[→ Drive](https://drive.google.com/drive/folders/1BTA4KV547pIfj_Gycw8zq9x1cUJNdqkW?usp=sharing){target="_blank"} |
 | 5 | sáb 14 nov | **5. Razonamiento probatorio y teoría del caso (parte 2)**<br>**Examen del módulo** (segunda parte de la sesión) | [Prueba 3](xaringan/2026-2-m2-05-PRUEBA-3.html){target="_blank"}<br>[Prueba 4](xaringan/2026-2-m2-05-PRUEBA-4.html){target="_blank"} | Paredes, *El principio de facilitación probatoria en el proceso laboral*<br>González Lagier, *Prueba y argumentación. ¿Es posible formular un estándar de prueba preciso y objetivo?*<br>[→ Drive](https://drive.google.com/drive/folders/1BTA4KV547pIfj_Gycw8zq9x1cUJNdqkW?usp=sharing){target="_blank"} |
 
+## Resúmenes de las clases {#resumenes}
+
+| Clase | Fecha | Resumen |
+|:--:|:-----|:-----------------|
+| 1 | mar 13 oct | [Clase 01](xaringan/mapa-clase-01.html){target="_blank"} |
+| 2 | jue 15 oct | [Clase 02](xaringan/mapa-clase-02.html){target="_blank"} |
+
+
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}
