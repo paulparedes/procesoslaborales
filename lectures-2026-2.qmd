@@ -58,7 +58,7 @@ Martes y jueves, 19:00–22:00 h; sábado 14, 15:00–18:00 h · del 3 al 14 de 
 |:--:|:-----|:-----------------|
 | 1 | mar 13 oct | [Clase 01](xaringan/mapa-clase-01.html){target="_blank"} |
 | 2 | jue 15 oct | [Clase 02](xaringan/mapa-clase-02.html){target="_blank"} |
-
+| 3 | mar 20 oct | [Clase 03](xaringan/mapa-clase-03.html){tarhet="_blank"} |
 
 <!--Include social share buttons-->
 
