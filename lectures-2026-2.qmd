@@ -61,6 +61,7 @@ Martes y jueves, 19:00–22:00 h; sábado 14, 15:00–18:00 h · del 3 al 14 de 
 | 3 | mar 20 oct | [Clase 03](xaringan/mapa-clase-03.html){tarhet="_blank"} |
 | 3 | mar 20 oct | [Esquema casación](xaringan/casacion-ley-31699.html){target="_blank"} |
 | 4 | jue 22 oct | [Clase 04](xaringan/mapa-clase-04.html){target="_blank"} |
+| 5 | mar 27 oct | [Clase 05](xaringan/mapa-clase-05.html){target="_blank"} |
 
 
 <!--Include social share buttons-->
