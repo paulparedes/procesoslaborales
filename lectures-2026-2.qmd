@@ -64,8 +64,9 @@ Martes y jueves, 19:00–22:00 h; sábado 14, 15:00–18:00 h · del 3 al 14 de 
 | 5 | mar 27 oct | [Clase 05](xaringan/mapa-clase-05.html){target="_blank"} |
 | 6 | mar 03 nov | [Clase 06](xaringan/mapa-clase-06.html){target="_blank"} |
 | 7 | jue 05 nov | [Clase 07](xaringan/mapa-clase-07.html){target="_blank"} |
+<!-- 
 | 8 | mar 24 nov | [Clase 09](xaringan/2026-2-m2-06-PRUEBA-5.html){target="_blank"} |
-
+--> 
 
 <!--Include social share buttons-->
 
