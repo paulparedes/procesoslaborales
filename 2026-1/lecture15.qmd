@@ -15,6 +15,11 @@ format: html
 
 [→ Diapositivas](../xaringan/como-juzgar-hechos-verdad.html){.btn-hero-primary target="_blank"}
 
+[→ Diapositivas](../xaringan/2026-2-m2-07-EXAMEN-WALTON.html){.btn-hero-primary target="_blank"}
+
+
+
+
 ## Contenidos de la sesión
 
 **Unidad IV — Teoría de la prueba y razonamiento probatorio**
